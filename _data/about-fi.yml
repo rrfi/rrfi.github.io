@@ -1,0 +1,42 @@
+- subject:
+    img: 1.jpg
+    pos: left
+    heading: Haluamme
+    subheading: edistää nojapyöräilyä urheilu- ja kuntoilumielessä
+    text: Nojapyörällä lähes kuka tahansa voi urheilla ja kuntoilla 
+          fyysisestä kunnosta tai rajoitteista riippumatta. Ja kuntoilu ei välttämättä tarkoita kilpailua!
+
+- subject:
+    img: 2.jpg
+    pos: right
+    heading: Järjestämme
+    subheading: joka vuosi nojapyörien SM-kilpailut Nokialla, Nokian Renkaiden testiradalla
+    text: Tapahtuma on perinteisesti elokuun ensimmäisenä viikonloppuna ja on kaksipäiväinen. 
+          Se toimii paitsi SM-kilpailuna, niin myös jokavuotisena alan harrastajien kokoontumisena. 
+
+- subject:
+    img: 3.jpg
+    pos: left
+    heading: Mahdollistamme
+    subheading: jäseniemme nojapyöräily-ennätysyrityksiä
+    text: Näistä esimerkkinä Pekka ajoi 2016 Nokialla Masters ikäryhmän ME:n trikellä. 
+
+- subject:
+    img: 4.jpg
+    pos: right
+    heading: Toimimme
+    subheading: linkkinä kansainvälisessä nojapyörätoiminnassa
+    text: Vuonna 2016 järjestimme Pohjoismaiden mestaruuskilpailut Nokialla.
+          Jäsenistöämme on seikkaillut ainakin MM-kisoissa Hollannissa ja Ranskassa 
+          ja jopa kansallisissa mestaruuskisoissa Tanskassa ja Ranskassa.
+          
+- subject:
+    img: 5.jpg
+    pos: left
+    heading: Me uskomme
+    subheading: monimuotoisuuteen myös pyöräilyssä
+    text: Nojapyörämuotojen määrä on loppumaton, pyöriä löytyy
+          kaksi-, kolmi- ja nelipyöräisiä; on matalia ja on korkeita; on lyhyitä ja pitkiä; on lähes makuuasennossa
+          ajettavia raasereita ja pystyselkäisiä cruisereita. Ja koska nämäkään eivät riitä, niin
+          moni meistä keksii ja rakentaa ihan omanlaisiansa keksintöjä. <br>
+          Nämä kaikki ovat mahtavia laitteita kuntoiluun, urheiluun, ulkoiluun ja elämästä nauttimiseen!

@@ -1,0 +1,45 @@
+
+- subject:
+    img: 1.jpg
+    pos: left
+    heading: We promote
+    subheading: recumbent cycling for sports and health
+    text: Anyone can ride a recumbent bike, whatever his or hers 
+          physical condition. Recumbents are not for racing only.
+
+- subject:
+    img: 2.jpg
+    pos: right
+    heading: We organise
+    subheading: annual Finnish Championships at Nokian Tyres Test Track in Finland
+    text: Traditionally the event takes place in the first weekend of August and serves 
+          both as a racing event and as a general bent riders' meet-up.
+
+- subject:
+    img: 3.jpg
+    pos: left
+    heading: We empower
+    subheading: recumbent record attempts
+    text: e.g. Pekka broke the masters Hour World Record in trike category on 2016.
+
+- subject:
+    img: 4.jpg
+    pos: right
+    heading: We are
+    subheading: the Finnish connection point for the rest of the recumbent world
+    text: On 2016 we organized Nordic Recumbent Championships.
+          Our active members have participated to the World Championships in Netherlands and 
+          France and amazed folks in National races in Denmark and France.
+
+- subject:
+    lang: en
+    img: 5.jpg
+    pos: left
+    heading: We believe
+    subheading: in diversity in cycling
+    text: Recumbent bike constructions take endless forms,  
+          you can find two-, three and four wheelers, 
+          short and long wheelbases, low and high racers, all kind of cruisers
+          as well as fully faired velomobiles. There's no limit, there's no UCI rules.
+          Many of us even build our very own individual machines.
+

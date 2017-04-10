@@ -1,0 +1,11 @@
+ <!-- Portfolio Modals -->
+{% if page.url contains '/en' %}
+    {% for post in site.categories.en %}
+        {% include modals_content.html %}
+    {% endfor %}
+{% else %}
+    {% for post in site.categories.fi %}
+        {% include modals_content.html %}
+    {% endfor %}
+{% endif %}
+

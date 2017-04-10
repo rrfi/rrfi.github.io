@@ -1,0 +1,51 @@
+---
+title: Rules and classifications
+subtitle:
+layout: default
+modal-id: 2
+date: 2017-03-30
+img: rrf_wide.jpg
+thumbnail: rrf.jpg
+alt: image-alt
+description: 
+---
+
+#### Riders
+
+Rider classification follows [WRRA rules](http://www.recumbents.com/wrra/rules.htm).
+
+- junior (16 years and less)
+- adult (17 – 50 years)
+- masters (51 years and above)
+- men / women
+
+
+#### Vehicles
+
+Vehicle classification follows [WRRA rules](http://www.recumbents.com/wrra/rules.htm), added with
+velomobile and tandem classes.
+
+- unfaired recumbents (WRRA)
+- 3 (or more) wheeled unfaired recumbents, "trikes" (WRRA)
+- tail or nose faired recumbents, 2 or more wheels (WRRA)
+- fully faired recumbents, velomobiles (addition to WRRA classification)
+- tandem (addition to WRRA classification)
+
+
+#### Other rules
+
+- Drafting is allowed *except* in one hour race. 200 m race will be started one by one, individually.
+- Helmet is not mandatory, but is highly recommended.
+- One operational breaking device is mandatory.
+- Track circulation happens *clock-wise*.
+- A rear view mirror is recommended.
+- Everyone is responsible for his/hers own health. Do evaluate your condition regularly during the races.
+- Organiser only provides the track for the event - no responsibilities of any kind can be delegated to the organising party.
+
+Organiser recommends checking and acquiring suitable personal insurance for the weekend. A waiver of liability
+will be signed during registration and before races.
+
+During the 6 and 12 hour races (Sunday) a pitstop area will be located at the outside of the track, on the last turn before the starting line (check the track map). Service cars/vans/tents shall be parked/organized in line so 
+that the circulation of the racing vehicles is as fluid as possible, without unnecessary obstacles.
+
+![12 hours is over](/img/portfolio/GOPR1278.jpg "2015 12 h race has just finished")

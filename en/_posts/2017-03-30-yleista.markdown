@@ -1,0 +1,27 @@
+---
+title: Event invitation letter 
+subtitle:
+layout: default
+modal-id: 1
+date: 2017-03-30
+img: hallissa.jpg
+thumbnail: hallissa_thumb.jpg
+alt: image-alt
+description: This is Nokia race
+---
+
+Nokia race is already a tradition in Finnish recumbent scene, Finnish Championships races has existed since 2011. The weekend-long meetup traditionally combines competition events with relaxed test riding and get-together of recumbent enthusiasts.
+
+
+#### Everyone is welcome
+Even though the competition for the Nordic Championship title is fierce, everyone is welcome on the track. Many participants only race against themselves in a marathon event and take the opportunity to test their personal limits in safe environment. In 12 hour event the average speed varies from 15 km/h to 60 km/h. The track's open for everyone!
+
+The event is open for any kind of bicycle, but - obviously - you can race for Finnish Recumbent Championships title only if you ride with a recumbent bike (check the classifications and rules from the separate info-box).
+
+The event is aimed at individuals interested in recumbent cycling. Some of the participants are the true pioneers of the recumbent scene in Nordics while others are racing for the first time. Racing gear varies from amazing DIY contraptions to factory-made high-tech racers.
+
+
+#### Audience invited !
+Racing is not mandatory, curious audience is always welcome - free of charge!
+
+![Some welding](/img/portfolio/hitsausta.jpg "At 8:00 Sunday morning: last minute tune-up with grinder and stick welder.")

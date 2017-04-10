@@ -1,0 +1,39 @@
+- program:
+  time: 7-7:45
+  descr: Registration (12 h)
+
+- program:
+  time: "8:00"
+  descr: 12 race starts
+
+- program:
+  time: 9-9:45
+  descr: Registration (6 h)
+
+- program:
+  time: "10:00"
+  descr: 6 hour race starts
+
+- program:
+  time: "16:00"
+  descr: 6 hour race ends
+
+- program:
+  time: "16:15"
+  descr: Podium (6 h)
+
+- program:
+  time: "20:00"
+  descr: 12 race ends
+
+- program:
+  time: "20:00"
+  descr: Podium (12 h)
+
+- program:
+  time: starting from 20:00
+  descr: Sauna at Alisniemi
+
+- program:
+  time: "21:00"
+  descr: Gate closes

@@ -1,0 +1,40 @@
+- program:
+  time: klo 9
+  descr: Rata-alueen portti avautuu
+
+- program:
+  time: klo 10–11
+  descr: Ilmoittautuminen (200 m, 1 h , 6 h, 12 h kilpailut)
+
+- program:
+  time: klo 11
+  descr: Tapahtuman avaus
+
+- program:
+  time: klo 11:30
+  descr: 200 metrin osallistujainfo ja aloitus
+
+- program:
+  time: klo 14:30-17
+  descr: > 
+    Varikolla tapahtuu<br>
+    - Rompetori<br>
+    - Hitain nojakkikuski<br>
+    - Pyörien koeajomahdollisuus
+
+- program:
+  time: klo 16
+  descr: Tunnin aika-ajo, ryhmä I ("hidas")
+
+- program:
+  time: klo 17
+  descr: Tunnin aika-ajo, ryhmä II ("nopea")
+
+- program:
+  time: klo 18:15
+  descr: Palkintojenjako (200 m ja 1 h)
+
+- program:
+  time: klo 18:30 alkaen
+  descr: Sauna Alisniemessä
+

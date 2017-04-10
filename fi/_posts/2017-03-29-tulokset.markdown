@@ -1,0 +1,56 @@
+---
+title: Tulokset
+subtitle: 2016, 2015, 2014, 2013, 2012
+layout: default
+modal-id: 4
+date: 2017-03-29
+img: saannot.png
+thumbnail: saannot_thumb.png
+alt: image-alt
+---
+
+## 2016
+
+#### <a href="../resources/2016-200 m results.pdf" target="_blank">200 m</a>
+
+#### <a href="../resources/2016-1 hour results.pdf" target="_blank">1 hour</a>
+
+#### <a href="../resources/2016-6 hours results.pdf" target="_blank">6 hours</a>
+
+#### <a href="../resources/2016-12h Results.pdf" target="_blank">12 hours</a>
+
+## 2015
+
+#### <a href="../resources/2015-200 m tulokset.pdf" target="_blank">200 m</a>
+
+#### <a href="../resources/2015-1 h tulokset.pdf" target="_blank">1 hour</a>
+
+#### <a href="../resources/2015-6 h tulokset.pdf" target="_blank">6 hours</a>
+
+#### <a href="../resources/2015-12 h tulokset.pdf" target="_blank">12 hours</a>
+
+## 2014
+
+#### <a href="../resources/2014-200 m tulokset.pdf" target="_blank">200 m</a>
+
+#### <a href="../resources/2014-1 h tulokset.pdf" target="_blank">1 hour</a>
+
+#### <a href="../resources/2014-6 h tulokset.pdf" target="_blank">6 hours</a>
+
+#### <a href="../resources/2014-12 h tulokset.pdf" target="_blank">12 hours</a>
+
+## 2013
+
+#### <a href="../resources/2013-200 m results.pdf" target="_blank">200 m</a>
+
+#### <a href="../resources/2013-1 h results.pdf" target="_blank">1 hour</a>
+
+#### <a href="../resources/2013-12 h results.pdf" target="_blank">12 hours</a>
+
+## 2012
+
+#### <a href="../resources/2012-200 m tulokset.pdf" target="_blank">200 m</a>
+
+#### <a href="../resources/2012-1 h tulokset.pdf" target="_blank">1 hour</a>
+
+#### <a href="../resources/2012-12 h tulokset.pdf" target="_blank">12 hours</a>

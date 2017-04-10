@@ -1,0 +1,35 @@
+---
+title: Kisainfoa, hyvä tietää
+subtitle:
+layout: default
+modal-id: 1
+date: 2017-03-30
+img: hallissa.jpg
+thumbnail: hallissa_thumb.jpg
+alt: image-alt
+description: Tätä on Nokian kisaviikonloppu
+---
+
+Perinteinen Nokian tapahtuma on suomalaisten nojapyöräilijöiden vuoden kohokohta, viikonloppu, jossa yhdistyvät kilpailu, ajaminen, 
+nojapyörien koeajot ja ihan vaan jutustelu ja ajanvietto muiden alan harrastajien kanssa.
+
+#### Kaikki mukaan
+Kisaviikonloppu sujuu rennolla meiningillä. Vaikka kyseessä ovat kilpailut, radalla on tilaa myös leppoisalle sunnuntai-ajelulle - 
+iso osa osallistujista kilpailee vain itseään vastaan ja hyödyntää tapahtuman antaman mahdollisuuden ajaa pitkäkestoinen 
+suoritus turvallisessa, muulta liikenteeltä suljetussa ympäristössä. 12 tunnin ajossa nopeudet vaihtelevat välillä 15-60 km/h. 
+Radalla on tilaa ihan kaikille!
+
+Tapahtuma on avoin kaikille, mutta SM-titteli myönnetään vain suomalaisille kilpailijoille, jotka ajavat luokitusten 
+mukaisella pyörällä (katso luokitukset viereisestä osiosta).
+
+Voit osallistua myös tavallisella polkupyörällä ("pystypyörällä"), jos et satu omistamaan nojapyörää. 
+Tai vaikka tavarapyörällä, jos niin haluat. Muille kuin nojapyörille on oma luokkansa, jolla ei ole SM-arvoa.
+
+Tapahtuma on tarkoitettu kaikille nojapyöräilystä kiinnostuneille. Mukana on ihmisiä nojakkia vasta harkitsevista 
+todellisiin alan pioneereihin. Kalustoakin on laidasta laitaan, protoista todellisiin high-end kilpureihin, niin 
+tehdaspyöriä kuin ällistyttäviä itse tehtyjä konstruktioitakin.
+
+#### Yleisöä paikalle!
+Katselijat, kannustajat ja muuten vaan uteliaat kyselijät ovat lämpimästi tervetulleita yleisöön - ihan ilmaiseksi.
+
+![Hitsausta](/img/portfolio/hitsausta.jpg "Klo 8:00 sunnuntai-aamu: viime hetken pikku säätöä Kempillä ja rälläkällä")
