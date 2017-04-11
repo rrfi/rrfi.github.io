@@ -14,6 +14,11 @@ contact:
       RRF:n jäsenmaksu on 20 euroa.<br>
       RRF:n jäsenmaksu ja kisaan osallistuminen maksetaan samalla kertaa.
     more: Jos haluat lisätietoja tai liittyä yhdistykseen, niin laita sähköpostia osoitteeseen
+    payment: Maksaminen
+    paypal: Voit maksaa on-line PayPalin kautta alla olevia linkkejä käyttäen
+    paypal1: Osanottomaksu + RRF jäsenmaksu yhteensä 50.00 euroa.
+    paypal2: Pelkkä osanottomaksu 40.00 euroa.
+    paypal3: Pelkkä RRF jäsenmaksu 20.00 euroa.
 
   en:
     reg-title: Registration
@@ -31,6 +36,11 @@ contact:
       RRF subscription fee is 20 euros for 2017.<br>
       This fee can be paid with the same transaction as the race registration.
     more: For more info send email to
+    payment: Payment
+    paypal: You can pay on-line using PayPal links below
+    paypal1: Registration with RRF membership fee 50.00 euros.
+    paypal2: Registration only 40.00 euros.
+    paypal3: RRF membership fee only 20.00 euroa.
 
 team:
   fi:
