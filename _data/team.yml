@@ -1,0 +1,52 @@
+# Team names, titles and social links
+people:
+- name: Teppo Mäkelä
+  pic: 1
+  position-fi: Nokian kilpailujen isä. Tapahtuman johtaja, ratamestari. Teppo hoitaa.
+  position-en: Mastermind of the event. Race commander, track maister. Teppo takes care of everything.
+  social:
+
+- name: Tero Linnanen
+  pic: 2
+  position-fi: Hallituksen puheenjohtaja. Kansainväliset kisat kolunnut kisakonkari ja hiilikuiturakentaja.
+  position-en: Chairman of the board. Regular competitor in international races. Carbon fiber specialist. 
+  social:
+
+- name: Pasi Räsämäki
+  pic: 3
+  position-fi: HC nojapyöräilijä Joensuusta.
+  position-en: HC recumbent rider and builder from the North Karelian town of Joensuu.
+  social:
+
+- name: Sauli Nurila
+  pic: 5
+  position-fi: Kinneristi Kälviän tasangoilta. Ansioitunut someaktivisti.
+  position-en: Velomobile rider from the western flatlands. Reputed social media activist.
+  social:
+    - title: twitter
+      url: https://twitter.com/saukkico
+    - title: facebook
+      url: https://www.facebook.com/saukkico
+    - title: youtube
+      url: https://www.youtube.com/user/saukki86
+    - title: instagram
+      url: https://www.instagram.com/saukkico
+ 
+- name: Henri Heikkari
+  pic: 6
+  position-fi: Kemppi-tyylin virittäjä Suomen Mansesterista.
+  position-en: >
+     "Fine-tuning by welding" specialist from Manchester Finland.
+  social:
+
+- name: Pekka Heimonen
+  pic: 4
+  position-fi: Suomen nojapyöräilyn lahja Ranskalle. Masters luokan tunnin ajon maailmanennätysmies. Webmaster. 
+  position-en: The French connection. Masters World Hour Record holder. Webmaster. 
+  social:
+    - title: twitter
+      url: https://twitter.com/pekkaheimonen
+    - title: bicycle
+      url: https://www.strava.com/athletes/2250684
+    - title: link
+      url: http://teamheimonen.com
