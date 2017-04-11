@@ -1,2 +1,3 @@
 # rrfi.github.io
-Recumbent Racing Association
+Recumbent Racing Finland ry website.
+Based on Agency Jekyll Theme, enhanced with multilanguage support.
