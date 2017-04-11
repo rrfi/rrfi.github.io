@@ -31,9 +31,5 @@
   descr: Podium (12 h)
 
 - program:
-  time: starting from 20:00
-  descr: Sauna at Alisniemi
-
-- program:
   time: "21:00"
   descr: Gate closes
