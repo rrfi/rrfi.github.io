@@ -1,3 +1,8 @@
+{% if page.url contains '/en' %}
+    {% assign lang = 'en' %}
+{% else %}
+    {% assign lang = 'fi' %}
+{% endif %}
 <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
@@ -23,45 +28,29 @@
                     </li>
                     <li>
                         <a class="page-scroll" href="#portfolio">
-                            {% if page.url contains '/en' %}
-                                Info and results
-                            {% else %}
-                                Info ja tulokset
-                            {% endif %}
+                            {{ site.data.texts.other[lang].infolink }}
                         </a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#about">
-                            {% if page.url contains '/en' %}
-                                Why ?
-                            {% else %}
-                                Miksi ?
-                            {% endif %}
+                            {{ site.data.texts.about[lang].title }}
                         </a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#team">
-                            {% if page.url contains '/en' %}
-                                Team
-                            {% else %}
-                                Tiimi
-                            {% endif %}                            
+                            {{ site.data.texts.team[lang].link }}
                         </a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">
-                            {% if page.url contains '/en' %}
-                                Registration
-                            {% else %}
-                                Ilmoittautuminen
-                            {% endif %}                            
+                            {{ site.data.texts.contact[lang].reg-title }}
                         </a>
                     </li>
                     <li>
-                        {% if page.url contains '/en' %}
-                        <a class="page-scroll" href="/">In Finnish</a>
+                        {% if lang == 'en' %}
+                        <a class="page-scroll" href="/">{{ site.data.texts.other[lang].languagelink }}</a>
                         {% else %}
-                        <a class="page-scroll" href="/en">In English</a>
+                        <a class="page-scroll" href="/en">{{ site.data.texts.other[lang].languagelink }}</a>
                         {% endif %}                            
                         </a>
                     </li>

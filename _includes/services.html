@@ -3,20 +3,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-				{% if page.url contains '/en' %}
-                    <h2 class="section-heading">Recumbent<br> Open 2017 Finnish Championships<br> and meet-up</h2>
-                    <h3 class="section-subheading text-muted">There's a legend that some folks are seriously training for this event.</h3>
-					<p class="section-subheading text-muted">					
-					Preliminary program is as follows:
-					</p>
-				{% else %}
-                    <h2 class="section-heading">Nojapyöräilyn <br>avoin 2017 SM-kilpailu<br> ja harrastajien kokoontuminen</h2>
-                    <h3 class="section-subheading text-muted">Huhutaan, että jossain treenataan ja toisaalla rakennetaan
-					outoa kilpakonetta tähän tapahtumaan.</h3>
-					<p class="section-subheading text-muted">					
-					Alla oleva ohjelma ja aikataulu on vielä alustava.
-					</p>
-				{% endif %}
+                    <h2 class="section-heading">{{ site.data.texts.services[lang].title }}</h2>
+                    <h3 class="section-subheading text-muted">{{ site.data.texts.services[lang].subtitle }}</h3>
+					<p class="section-subheading text-muted">{{ site.data.texts.services[lang].text }}</p>
                 </div>
             </div>
             <div class="row text-center">
@@ -26,22 +15,14 @@
                         <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">
-						{% if page.url contains '/en' %}
-							Saturday 5th August
-						{% else %}
-							Lauantai 5. elokuuta
-						{% endif %}
+						{{ site.data.texts.services[lang].saturday }}
 					</h4>
                     <p class="text-primary">
-						{% if page.url contains '/en' %}
-							200 meters flying start. <br>1 hour race.
-						{% else %}
-							200 metrin lentävän lähdön sprintti. <br>Tunnin aika-ajo.
-						{% endif %}
+						{{ site.data.texts.services[lang].satdescr }}
 					</p>
                     <p class="text-muted">
 					  <ul class="list text-muted">
- 						{% if page.url contains '/en' %}
+ 						{% if lang == 'en' %}
                             {% for program in site.data.saturday %}
                                 <li><b>{{ program.time }}:</b> {{ program.descr }}</li>
                             {% endfor %}
@@ -59,21 +40,13 @@
                         <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">
-						{% if page.url contains '/en' %}
-							Sunday 6th August
-						{% else %}
-							Sunnuntai 6. elokuuta
-						{% endif %}						
+						{{ site.data.texts.services[lang].sunday }}					
 					</h4>
                     <p class="text-primary">
-						{% if page.url contains '/en' %}
-							12 h race<br>6 h race
-						{% else %}
-							12 h aika-ajo<br>6 h aika-ajo
-						{% endif %}
+						{{ site.data.texts.services[lang].sundescr }}
 					</p>
 					  <ul class="list text-muted">
- 						{% if page.url contains '/en' %}
+ 						{% if lang == 'en' %}
                             {% for program in site.data.sunday %}
                                 <li><b>{{ program.time }}:</b> {{ program.descr }}</li>
                             {% endfor %}
@@ -89,13 +62,8 @@
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-bed fa-stack-1x fa-inverse"></i>
                     </span>
-					{% if page.url contains '/en' %}
-						<h4 class="service-heading">Where to sleep</h4>
-						<p class="text-muted">Cottages may be reserved from Alisniemi. It's also possible to sleep in a tent or caravan at the track area.<br>(Note: no drinking water, neither bathrooms at the track).</p>
-					{% else %}
-						<h4 class="service-heading">Majoitus</h4>
-						<p class="text-muted">Majoitusmahdollisuus mökeissä Alisniemessä ja omatoimisesti rata-alueella.<br>(Huom: rata-alueella ei ole juomakelpoista vettä, eikä peseytymismahdollisuuksia).</p>
-					{% endif %}
+                    <h4 class="service-heading">{{ site.data.texts.services[lang].accommodation }}</h4>
+                    <p class="text-muted">{{ site.data.texts.services[lang].accdescr }}	</p>
                 </div>
             </div>
         </div>

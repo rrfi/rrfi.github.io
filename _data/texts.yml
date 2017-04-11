@@ -1,0 +1,99 @@
+contact:
+  fi:
+    reg-title: Ilmoittautuminen
+    subscribe: Ilmoittaudu
+    form: On-line ilmoittautumislomake (ei toimi IE-selaimella, sorry)
+    prices1: 
+      Ennen 15.7. ilmoittauduttaessa on osallistumismaksu<br>
+      RRF:n jäseniltä 30 euroa,<br> 
+      muilta 40 euroa.
+    prices2: 
+      Aikavälillä 15.7. - 5.8. ilmoittauduttaessa<br>
+      osallistumismaksu on 35/45 euroa.
+    prices3:
+      RRF:n jäsenmaksu on 20 euroa.<br>
+      RRF:n jäsenmaksu ja kisaan osallistuminen maksetaan samalla kertaa.
+    more: Jos haluat lisätietoja tai liittyä yhdistykseen, niin laita sähköpostia osoitteeseen
+
+  en:
+    reg-title: Registration
+    subscribe: Sign up now
+    form: On-line registration form (does not support IE, sorry)
+    prices1: 
+      If you register before 15th July, the registration fee is<br>
+      30 euros for RRF members,<br>
+      40 euros for all others.
+    prices2: 
+      Between 15th July and 5th August the registration fee is<br>
+      35 euros for RRF members<br>
+      45 euros for others.
+    prices3:
+      RRF subscription fee is 20 euros for 2017.<br>
+      This fee can be paid with the same transaction as the race registration.
+    more: For more info send email to
+
+team:
+  fi:
+    link: Tiimi
+    title: Järjestelytoimikuntamme
+    slogan: Meitä voit kiittää ja syyttää vuoden 2017 kisajärjestelyistä.
+    wisdom: We don't ride because we have to. We ride because we like it.
+  en:
+    link: Team
+    title: The team
+    slogan: We make it happen.
+    wisdom: We don't ride because we have to. We ride because we like it.
+
+about:
+  fi:
+    title: Miksi ?
+    subtitle: Recumbent Racing Finland on aatteellinen yhdistys. Aatteitamme ovat
+    join: Liity<br>mukaan !
+  en:
+    title: Why ?
+    subtitle: Recumbent Racing Finland is a nonprofit operation, our reasons are
+    join: Join<br>us !
+
+partners:
+  fi:
+    title: Yhteistyökumppanit
+  en:
+    title: Partners
+
+postsgrid:
+  fi:
+    title: Infoa
+    subtitle: Tarkempaa tapahtumatietoa
+  en:
+    title: Info
+    subtitle: Miscellaneous event information
+
+services:
+  fi:
+    title: Nojapyöräilyn <br>avoin 2017 SM-kilpailu<br> ja harrastajien kokoontuminen
+    subtitle: Huhutaan, että jossain treenataan ja toisaalla rakennetaan outoa kilpakonetta tähän tapahtumaan.
+    text: Alla oleva ohjelma ja aikataulu on vielä alustava.
+    saturday: Lauantai 5. elokuuta
+    satdescr: 200 metrin lentävän lähdön sprintti. <br>Tunnin aika-ajo.
+    sunday: Sunnuntai 6. elokuuta
+    sundescr: 12 h aika-ajo<br>6 h aika-ajo
+    accommodation: Majoitus
+    accdescr: Majoitusmahdollisuus mökeissä Alisniemessä ja omatoimisesti rata-alueella.<br>(Huom! rata-alueella ei ole juomakelpoista vettä, eikä peseytymismahdollisuuksia).
+  en:
+    title: Recumbent<br> Open 2017 Finnish Championships<br> and meet-up
+    subtitle: There's a legend that some folks are seriously training for this event.
+    text: Preliminary program is as follows
+    saturday: Saturday 5th August
+    satdescr: 200 meters flying start. <br>1 hour race.
+    sunday: Sunday 6th August
+    sundescr: 12 h race<br>6 h race
+    accommodation: Where to sleep
+    accdescr: Cottages may be reserved from Alisniemi. It's also possible to sleep in a tent or caravan at the track area.<br>(Note! no drinking water, neither bathrooms at the track).
+
+other:
+  fi:
+    infolink: Info ja tulokset
+    languagelink: In English
+  en:
+    infolink: Info and results
+    languagelink: Suomeksi

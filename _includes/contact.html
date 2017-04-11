@@ -1,13 +1,14 @@
+{% if page.url contains '/en' %}
+    {% assign lang = 'en' %}
+{% else %}
+    {% assign lang = 'fi' %}
+{% endif %}
 <section id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">
-                    {% if page.url contains '/en'%}    
-                        Registration
-                    {% else %}
-                        Ilmoittautuminen
-                    {% endif %}    
+                        {{ site.data.texts.contact[lang].reg-title }}
                     </h2>
                 </div>
             </div>
@@ -18,52 +19,27 @@
                         <i class="fa fa-file fa-stack-1x fa-inverse"></i>
                     </span>
 					<p>
-                    {% if page.url contains '/en'%}    
-                        Register
-                    {% else %}
-                        Ilmoittaudu
-                    {% endif %}                            
+                        {{ site.data.texts.contact[lang].subscribe }}
                     </p>
                     <p>
-                        {% if page.url contains '/en'%}
-			    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeoS0NuRA8kjvFWyiwN12WowhALUeSL0ClKp43dQpCxO_yCGg/viewform">
-                            On-line registration form (does not support IE, sorry)
+                        {% if lang == 'en' %}
+        			    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeoS0NuRA8kjvFWyiwN12WowhALUeSL0ClKp43dQpCxO_yCGg/viewform">
+                        {{ site.data.texts.contact[lang].form }}
 		            </a>
                         {% else %}
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7_ds9VMDyp2eTCbH4u-YvQcO3DJE2zEBT3lHmgLVZXBeJ9Q/viewform">
-                            On-line ilmoittautumislomake (ei toimi IE-selaimella, sorry)
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7_ds9VMDyp2eTCbH4u-YvQcO3DJE2zEBT3lHmgLVZXBeJ9Q/viewform">
+                        {{ site.data.texts.contact[lang].form }}
 		            </a>
                         {% endif %}                            
                     </p>
 					<p class="text-muted">
-                    {% if page.url contains '/en'%}    
-                        If you register before 15th July, the registration fee is<br>
-                        30 euros for RRF members,<br>
-                        40 euros for all others.
-                    {% else %}
-                        Ennen 15.7. ilmoittauduttaessa on osallistumismaksu<br>
-						RRF:n jäseniltä 30 euroa,<br> 
-						muilta 40 euroa.
-                    {% endif %}    
+                        {{ site.data.texts.contact[lang].prices1 }}
                     </p> 
 					<p class="text-muted">
-                    {% if page.url contains '/en'%}    
-                        Between 15th July and 5th August the registration fee is<br>
-                        35 euros for RRF members<br>
-                        45 euros for others.
-                    {% else %}
-                        Aikavälillä 15.7. - 5.8. ilmoittauduttaessa<br>
-                        osallistumismaksu on 35/45 euroa.
-                    {% endif %}
+                        {{ site.data.texts.contact[lang].prices2 }}
                     </p>  
 					<p class="text-muted">
-                    {% if page.url contains '/en'%}    
-                        RRF subscription fee is 20 euros for 2017.<br>
-                        This fee can be paid with the same transaction as the race registration.
-                    {% else %}
-                        RRF:n jäsenmaksu on 20 euroa.<br>
-                        RRF:n jäsenmaksu ja kisaan osallistuminen maksetaan samalla kertaa.
-                    {% endif %}                            
+                        {{ site.data.texts.contact[lang].prices3 }}
                     </p>
                 </div>
 				<div class="col-md-6">
@@ -71,13 +47,8 @@
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
-                    {% if page.url contains '/en'%}    
-					<p>For more info send email to
+					<p>{{ site.data.texts.contact[lang].more }}</p>
                     <p>recracfin(at)gmail.com</p>
-                    {% else %}
-                        <p>Jos haluat lisätietoja tai liittyä yhdistykseen, niin laita sähköpostia osoitteeseen
-                        <p>recracfin(at)gmail.com</p>
-                    {% endif %}                            
                 </div>
             </div>
         </div>

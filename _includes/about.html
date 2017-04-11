@@ -4,25 +4,17 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">
-                    {% if page.url contains '/en' %}
-                        Why ?
-                    {% else %}
-                        Miksi ?
-                    {% endif %}                                                
+                        {{ site.data.texts.about[lang].title }}                                            
                     </h2>
                     <h3 class="section-subheading text-muted">
-                    {% if page.url contains '/en' %}
-                        Recumbent Racing Finland is a nonprofit operation, our reasons are:
-                    {% else %}
-                        Recumbent Racing Finland on aatteellinen yhdistys. Aatteitamme ovat:
-                    {% endif %}                                                
+                        {{ site.data.texts.about[lang].subtitle }}
                     </h3>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="timeline">
-                        {% if page.url contains '/en' %}
+                        {% if lang == 'en' %}
                             {% for about in site.data.about-en %}
                                 {% include about_subject.html %}
                             {% endfor %}
@@ -35,13 +27,7 @@
                         <li class="timeline-inverted">
 							<a href="#contact">
 								<div class="timeline-image">
-                                    {% if page.url contains '/en' %}
-									<h4>Join
-										<br>us !</h4>
-                                    {% else %}
-									<h4>Liity
-										<br>mukaan !</h4>
-                                    {% endif %}
+									<h4>{{ site.data.texts.about[lang].join }}</h4>
 								</div>
 							</a>
                         </li>
