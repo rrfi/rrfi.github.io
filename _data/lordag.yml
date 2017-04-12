@@ -1,0 +1,37 @@
+- program:
+  time: "9:00"
+  descr: Gate opens
+
+- program:
+  time: 10–11
+  descr: Registration (200 m, 1 h , 6 h, 12 h races)
+
+- program:
+  time: "11:00"
+  descr: Event opening session
+
+- program:
+  time: "11:30"
+  descr: Pilot briefing and 200 meter race start
+
+- program:
+  time: 14:30-17
+  descr: > 
+    Paddock action<br>
+    - Swap meet (parts etc)<br>
+    - Slowest recumbent rider<br>
+    - Test rides
+
+- program:
+  time: "16:00"
+  descr: 1 hour race, group I ("slow")
+
+- program:
+  time: "17:00"
+  descr: 1 hour race, group II ("fast")
+
+- program:
+  time: "18:15"
+  descr: Podium (200 m and 1 h races)
+
+

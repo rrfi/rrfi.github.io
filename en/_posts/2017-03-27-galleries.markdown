@@ -9,18 +9,24 @@ thumbnail: GOPR1267.jpg
 alt: image-alt
 ---
 
-## Videos from the past events
+# Videos from the past events
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sWfOTI_27Nw" frameborder="0" allowfullscreen></iframe>
-2016 - video by Sauli Nurila
+#### 2016 - video by Sauli Nurila (Youtube)
+<a href="https://youtu.be/sWfOTI_27Nw" target="_blank">
+    ![2016 story](/img/portfolio/video-sauli-1.jpg "2016 Nordic Championships at Nokia track")
+</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SVCqY84K0jg" frameborder="0" allowfullscreen></iframe>
-2015 - video by Pekka Heimonen
+#### 2015 - video by Pekka Heimonen (Youtube)
+<a href="https://youtu.be/SVCqY84K0jg" target="_blank">
+    ![2015 story](/img/portfolio/video-pekka-1.jpg "2015 Finnish Championships at Nokia track")
+</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PmbL0s-vzXU" frameborder="0" allowfullscreen></iframe>
-2015 - 200 m flying start - video by Tuomo Vuolle 
+#### 2015 - 200 m video by Tuomo Vuolle (Youtube)
+<a href="https://youtu.be/PmbL0s-vzXU" target="_blank">
+    ![2016 story](/img/portfolio/video-tuomo-1.jpg "2015, Tuomo's 200m flying start at Nokia track")
+</a>
 
-<iframe src="https://player.vimeo.com/video/135364058" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/135364058">2015 - slowest recumbent rider</a> video by <a href="https://vimeo.com/yaana">Jaana Kriikka</a> on <a href="https://vimeo.com">Vimeo</a>.
-</p>
-
+#### 2015 - slowest recumbent rider video by Jaana Kriikka (Vimeo)
+<a href="https://vimeo.com/135364058" target="_blank">
+    ![2016 story](/img/portfolio/video-jaana-1.jpg "2015 slowest recumbent rider competition at Nokia track")
+</a>

@@ -108,6 +108,8 @@ other:
   fi:
     infolink: Info ja tulokset
     languagelink: In English
+    close-button: Sulje
   en:
     infolink: Info and results
     languagelink: Suomeksi
+    close-button: Close
