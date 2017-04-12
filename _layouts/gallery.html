@@ -5,19 +5,23 @@
 
 
     <body id="page-top" class="index">
-
+        <div class="container">
+            <div class="row text-center">
     {% assign photos = site.static_files | where: "image", true %}
-    {{ photos }}
     {% for photo in photos %}
-    <div class="col-md-2 col-sm-6">
-        {{ photo.path }}
-    </div>
+                <div class="col-md-2 col-sm-6">
+                    <div class="galleryphoto">
+                        <img src="{{ photo.path }}" class="img-responsive img-centered" alt=""><br>
+                        <div class="text-center">{{ photo.basename }}</div>
+                    </div>
+                </div>
     {% endfor %}
-
+            </div>
+        </div>
     {% include clients.html %}
     {% include footer.html %}
     {% include js.html %}
-    
+
         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> {{ site.data.texts.other[lang].close-button }}</button>
 
     </body>
