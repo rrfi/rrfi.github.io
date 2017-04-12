@@ -3,6 +3,12 @@
 
   {% include head.html %}
 
+    {% if page.url contains '/en' %}
+        {% assign lang = 'en' %}
+    {% else %}
+        {% assign lang = 'fi' %}
+    {% endif %}
+    {% assign counter = 0 %}
 
     <body id="page-top" class="index">
         <div class="container">
@@ -18,11 +24,9 @@
     {% endfor %}
             </div>
         </div>
-    {% include clients.html %}
     {% include footer.html %}
     {% include js.html %}
 
-        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> {{ site.data.texts.other[lang].close-button }}</button>
 
     </body>
 </html>
