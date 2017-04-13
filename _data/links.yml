@@ -1,0 +1,27 @@
+nav:
+  fi:
+    home: "/#page-top"
+    race: "/#2017 race"
+    info: "/#portfolio"
+    about: "/#about"
+    team: "/#team"
+    contact: "/#contact"
+    lang: /
+
+  en:
+    home: /en/#page-top
+    race: /en/#2017 race
+    info: /en/#portfolio
+    about: /en/#about
+    team: /en/#team
+    contact: /en/#contact
+    lang: /en
+
+  se:
+    home: /se/#page-top
+    race: /se/#2017 race
+    info: /se/#portfolio
+    about: /se/#about
+    team: /se/#team
+    contact: /se/#contact
+    lang: /se

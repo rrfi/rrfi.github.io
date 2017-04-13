@@ -1,32 +1,34 @@
 <!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
     {% if page.url contains '/en' %}
         {% assign lang = 'en' %}
     {% else %}
         {% assign lang = 'fi' %}
     {% endif %}
-    {% assign counter = 0 %}
+
+    {% include head.html %}
 
     <body id="page-top" class="index">
+    {% include plain-header.html %}
+        <div class="gallerypad">
+        </div>
+
         <div class="container">
             <div class="row text-center">
-    {% assign photos = site.static_files | where: "image", true %}
-    {% for photo in photos %}
-                <div class="col-md-2 col-sm-6">
-                    <div class="galleryphoto">
-                        <img src="{{ photo.path }}" class="img-responsive img-centered" alt=""><br>
-                        <div class="text-center">{{ photo.basename }}</div>
-                    </div>
+            {% assign photos = site.static_files | where: "image", true %}
+            {% for photo in photos %}
+                <div class="gallery">
+                    <a target="_blank" href="{{ photo.path }}">
+                        <div class="galleryphoto">
+                            <img src="{{ photo.path }}" alt="{{ photo.basename }}" width="300" height="200">
+                        </div>
+                        <div class="desc text-muted">{{ photo.basename }}</div>
+                    </a>
                 </div>
-    {% endfor %}
+            {% endfor %}
             </div>
         </div>
     {% include footer.html %}
-    {% include js.html %}
-
-
     </body>
+    {% include js.html %}
 </html>

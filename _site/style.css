@@ -30,6 +30,45 @@ ul.list {
 	list-style: none inside none;
 	text-align: left;
 }
+
+div.gallerypad {
+    height: 100px;
+    width: 100%;
+    background: #222;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 183px;
+    height: 182px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.galleryphoto {
+    width: 180px;
+    height: 120px;
+    overflow: hidden;
+    margin: 1px;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.gallery div.desc {
+    padding: 15px;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;

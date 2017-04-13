@@ -78,9 +78,11 @@ postsgrid:
   fi:
     title: Infoa
     subtitle: Tarkempaa tapahtumatietoa
+    gallery: Kuvagalleria
   en:
     title: Info
     subtitle: Miscellaneous event information
+    gallery: Photos
 
 services:
   fi:
@@ -106,10 +108,12 @@ services:
 
 other:
   fi:
+    racelink: 2017 race
     infolink: Info ja tulokset
     languagelink: In English
     close-button: Sulje
   en:
+    racelink: 2017 race
     infolink: Info and results
     languagelink: Suomeksi
     close-button: Close
