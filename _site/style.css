@@ -31,6 +31,19 @@ ul.list {
 	text-align: left;
 }
 
+div.eventscalendar {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;    
+    height: 280;
+    width: 280px;
+}
+
+div.eventscalendar .when {
+    background: #ccc;
+    height: 30px;
+}
+
 div.gallerypad {
     height: 100px;
     width: 100%;

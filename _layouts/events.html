@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    {% if page.url contains '/en' %}
+        {% assign lang = 'en' %}
+    {% else %}
+        {% assign lang = 'fi' %}
+    {% endif %}
+
+    {% include head.html %}
+
+    <body id="page-top" class="index">
+    {% include plain-header.html %}
+        <div class="gallerypad">
+        </div>
+
+        <div class="container">
+            <div class="row text-center">
+            {% assign events = site.data.calendar %}
+            {% for event in events %}
+                <div class="eventscalendar">
+                    <a target="_blank" href="{{ event.link }}">
+                        <div class="when">
+                            <h3>{{ event.when }}</h3>
+                        </div>
+                        <div class="eventintro">
+                            <img src="{{ event.image }}" alt="{{ event.title }}">
+                        </div>
+                        <div class="desc text-muted">
+                            <h3>{{ event.title }}</h2>
+                            <h3>{{ event.where }}</h3>
+                            <p class="text-muted">{{ event.info }}</p>
+                        </div>
+                    </a>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    {% include footer.html %}
+    </body>
+    {% include js.html %}
+</html>
