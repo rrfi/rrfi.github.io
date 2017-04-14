@@ -1,35 +1,41 @@
 - title: Seconda prova campionato italiano HPV 2017
   when: 3 - 4 June 2017
   where: Autodromo di Monza, Italy
-  info: 1.5 hour race
+  info: 1.5 hour race on a legendary Monza F1 track 
+  image: /img/events/monza.png
   link: "http://www.propulsioneumana.it/"
 
 - title: Human Powered Vehicles Worldcup
   when: 9 - 10 - 11 June 2017
   where: Mannheim, Germany
-  info: ""
+  info: "100km, 1h, sprints of 333.33m and 1000m and an up-hill race"
+  image: /img/events/mannheim.jpg
   link: "http://www.hpv-wm-2017.de/index.php/en/"
 
 - title: French National UFOLEP Cyclosport (route, recumbents)
   when: 14 - 15 - 16 July 2017
   where: Saint-Sulpice-le-Guérétois, France
   info: ""
+  image: /img/events/UFOLEP.jpg
   link: "http://www.ufolep-cyclisme.org"
 
 - title: Open Finnish National Recumbent Championships and meet-up
   when: 5 - 6 August 2017
   where: Nokian Tyres Test Track, Nokia, Finland
   info: "200 m flying start, 1 hour, 6 hours, 12 hours"
-  link: "https://rrfi.github.io"
+  image: /img/portfolio/RRF.jpg
+  link: "http://www.rrfi.fi"
 
 - title: Endurance 6 h & 24 h
   when: 13 - 14 August 2017
   where: Circuit Paul Ricard, Castellet, France
-  info: "6 hours, 24 hours"
+  info: "6 and 24 hours races on a legendary 3.8 km Paul Ricard track. Recumbents are welcome!"
+  image: /img/events/paulricard.jpg
   link: "https://www.circuitpaulricard.com/en/event/evenement-velo-august-13th-and-14th-of-2017.html"
 
 - title: 36th Duo Normand
   when: 25 September 2017
   where: Maraigny, France
-  info: "Contre-la-montre par équipe de deux coureurs sur un parcours de 54 kilomètres"
+  info: "Duo Normand is a time-trial race by team of two on a road of 54.3 km. Recumbents are welcome!"
+  image: /img/events/duonormand.jpg
   link: "http://www.duonormand.com/fr/presentation.html"

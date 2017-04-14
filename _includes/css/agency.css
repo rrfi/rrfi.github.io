@@ -23,17 +23,64 @@ ul.list {
 	text-align: left;
 }
 
+ul.nav {
+    font-size: 11px;
+}
+
 div.eventscalendar {
-    margin: 5px;
+    margin: 20px 20px 0px 0px;
     border: 1px solid #ccc;
     float: left;    
-    height: 280;
-    width: 280px;
+    height: 380px;
+    width: 250px;
+}
+
+div.eventscalendar:hover {
+    border: 1px solid #777;
 }
 
 div.eventscalendar .when {
     background: #ccc;
-    height: 30px;
+    height: 60px;
+    padding: 0 10px 0 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+div.eventscalendar .when h3 {
+    margin: 0;
+}
+
+div.eventscalendar .desc {
+    padding: 0 10px 0 10px;
+}
+
+div.eventscalendar .desc h3 {
+    font-size: 14px;
+    margin: 10px 0 10px 0;
+    color: #{{ site.data.template.color.primary }};
+}
+
+div.eventscalendar .desc h4 {
+    font-size: 12px;
+    margin: 0 0 10px 0;
+}
+
+div.eventscalendar .eventimg {
+    width: auto;
+    height: 160px;
+}
+
+div.eventscalendar .eventimg .fa-stack {
+    padding-top: 15px;
+}
+
+div.eventscalendar .eventimg img {
+    max-width: 150px;
+    height: auto;
+    overflow: hidden;
+    padding: 10px 0 10px 0;
 }
 
 div.gallerypad {

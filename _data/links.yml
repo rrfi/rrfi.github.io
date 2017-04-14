@@ -6,7 +6,8 @@ nav:
     about: "/#about"
     team: "/#team"
     contact: "/#contact"
-    lang: /
+    calendar: "/events"
+    lang: /en
 
   en:
     home: /en/#page-top
@@ -15,7 +16,8 @@ nav:
     about: /en/#about
     team: /en/#team
     contact: /en/#contact
-    lang: /en
+    calendar: /en/events
+    lang: /
 
   se:
     home: /se/#page-top
@@ -24,4 +26,5 @@ nav:
     about: /se/#about
     team: /se/#team
     contact: /se/#contact
-    lang: /se
+    calendar: /se/events
+    lang: /

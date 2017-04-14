@@ -112,8 +112,22 @@ other:
     infolink: Info ja tulokset
     languagelink: In English
     close-button: Sulje
+    events: Nojapyöräkilpailuja ja tapahtumia vuonna 2017
+    addeventtitle: Jotakin puuttuu ?
+    yourevent: Lisää tapahtuma
+    addevent: Ilmoita tiedot online
+    eventinstructions: Klikkaa tästä ja täytä kysytyt tiedot formille. Lisäämme tapahtuman näkyviin asap!
+    calendar: Kalenteri
+
   en:
     racelink: 2017 race
     infolink: Info and results
     languagelink: Suomeksi
     close-button: Close
+    events: Recumbent races and events on 2017
+    addeventtitle: Something missing ?
+    yourevent: Add an event 
+    addevent: inform us (online form)
+    eventinstructions: If you think we have missed a recumbent event, click
+      here and fill-in the required info. We'll be happy to add the event asap!
+    calendar: Calendar
