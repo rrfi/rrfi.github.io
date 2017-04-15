@@ -26,6 +26,19 @@
   image: /img/events/cyclevision.jpg
   link: "http://www.cyclevision.nl/"
 
+- title: Ratareisi 2017
+  when: 24 - 25 June 2017
+  where: Alastaro Circuit, Alastaro, Finland
+  info: Trackcrazy - 24 h endurance event on a flat 2.72 km Alastaro Circuit. Recumbents welcome!
+  image: /img/events/ratareisi.jpg
+  link: http://ratareisi.blogspot.fr/
+
+- title: Lowride 2017
+  when: 30 June - 2 July 2017
+  where: Munkkentie 251, Kaarina, Finland
+  info: Recumbent summer meeting in Finland
+  image: /img/events/lowride.jpg
+
 - title: 100 Kms du SUD OUEST 2017
   when: 1 - 2 July 2017
   where: Vélodrome de Damazan, France
