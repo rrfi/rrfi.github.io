@@ -1,3 +1,10 @@
+- title: Highway to Sky
+  when: 20 May 2017
+  where: Innertkirchen - Sustenpass, Switzerland
+  info: Distance 28.1 kilometers, altitudes from 635 m to 2224 m, total ascent 1606 meters. Recumbents welcome!
+  image: /img/events/highwaytosky.png
+  link: https://www.highwaytosky.com
+
 - title: Seconda prova campionato italiano HPV 2017
   when: 3 - 4 June 2017
   where: Autodromo di Monza, Italy
@@ -12,7 +19,21 @@
   image: /img/events/mannheim.jpg
   link: "http://www.hpv-wm-2017.de/index.php/en/"
 
-- title: French National UFOLEP Cyclosport (route, recumbents)
+- title: Cycle Vision
+  when: 24 - 25 June 2017
+  where: Sportpark Sloten, Amsterdam, The Netherlands
+  info: Last year's program was 1 h, 3 h, 6 h and 200 m velodrome sprint
+  image: /img/events/cyclevision.jpg
+  link: "http://www.cyclevision.nl/"
+
+- title: 100 Kms du SUD OUEST 2017
+  when: 1 - 2 July 2017
+  where: Vélodrome de Damazan, France
+  info: 1000 m standing start, 1 h, "course à l'Australienne", rando 100 km
+  image: /img/events/sudest.jpg
+  link: http://sesa.blog4ever.com/blog/100-km-du-sud-ouest-2017
+
+- title: French 2017 Championnat National route, recumbents
   when: 14 - 15 - 16 July 2017
   where: Saint-Sulpice-le-Guérétois, France
   info: ""
@@ -24,7 +45,7 @@
   where: Nokian Tyres Test Track, Nokia, Finland
   info: "200 m flying start, 1 hour, 6 hours, 12 hours"
   image: /img/portfolio/rrf.jpg
-  link: "http://www.rrfi.fi"
+  link: "http://www.rrfi.fi/en"
 
 - title: Endurance 6 h & 24 h
   when: 13 - 14 August 2017
@@ -32,6 +53,13 @@
   info: "6 and 24 hours races on a legendary 3.8 km Paul Ricard track. Recumbents are welcome!"
   image: /img/events/paulricard.jpg
   link: "https://www.circuitpaulricard.com/en/event/evenement-velo-august-13th-and-14th-of-2017.html"
+
+- title: French 2017 Championnat National CLM, recumbents
+  when: 16 - 17 September 2017
+  where: Montbard, Côte d'Or, France
+  info: Individual and Team (duo) Time Trials, very flat road, see Openrunner ID 6698287
+  image: /img/events/UFOLEP.jpg
+  link: "http://www.ufolep-cyclisme.org"
 
 - title: 36th Duo Normand
   when: 25 September 2017
