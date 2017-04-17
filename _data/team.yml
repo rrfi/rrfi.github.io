@@ -35,7 +35,11 @@ people:
       url: https://www.youtube.com/user/saukki86
     - title: instagram
       url: https://www.instagram.com/saukkico
- 
+    - title: bicycle
+      url: https://www.strava.com/athletes/8093302
+    - title: link
+      url: http://saukki.com
+       
 - name: Henri Heikkari
   pic: 6
   position-fi: Kemppi-tyylin virittäjä Suomen Mansesterista.
