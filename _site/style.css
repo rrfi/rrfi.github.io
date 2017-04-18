@@ -129,6 +129,10 @@ div.gallery div.desc {
     flex-direction: column;
 }
 
+.portfolio-caption {
+    height: 100%;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
