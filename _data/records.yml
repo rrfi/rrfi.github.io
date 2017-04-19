@@ -1,4 +1,4 @@
-200m-fullyfaired:
+- race:
   title-fi: 200 m lentävä lähtö
   class-fi: Katetut
   title-en: 200 m flying start
@@ -13,7 +13,7 @@
     date: "2.7.2012"
     venue: Dekra test track, Klettwitz, Germany
 
-200m-unfaired:
+- race:
   title-fi: 200 m lentävä lähtö
   class-fi: Kattamattomat
   title-en: 200 m flying start
@@ -28,7 +28,7 @@
     date: "4.8.2012"
     venue: Nokian Tyres test track, Nokia, Finland
 
-1h-fullyfaired:
+- race:
   title-fi: Tunnin aika-ajo
   class-fi: Katetut
   title-en: 1 hour time trial
@@ -43,7 +43,7 @@
     date: "30.6.2012"
     venue: Dekra test track, Klettwitz,Germany
   
-1h-unfaired:
+- race:
   title-fi: Tunnin aika-ajo
   class-fi: Kattamattomat
   title-en: 1 hour time trial
@@ -58,7 +58,7 @@
     date: "31.7.2012"
     venue: Helsinki Velodrome, Finland
 
-1h-trike:
+- race:
   title-fi: Tunnin aika-ajo
   class-fi: Trike, Masters
   title-en: 1 hour time trial
