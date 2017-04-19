@@ -27,6 +27,10 @@ ul.nav {
     font-size: 11px;
 }
 
+.intro-text .btn {
+    margin: 3px;
+}
+
 .navbar-brand>img {
     display: inline;
 }
