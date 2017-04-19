@@ -9,6 +9,13 @@ thumbnail: GOPR1267.jpg
 alt: image-alt
 ---
 
+# Coming soon: 2017 Open Finnish Recumbent Championships
+
+#### 2017 preview - video by Sauli Nurila (Youtube)
+<a href="https://youtu.be/FmSwAHZX02k" target="_blank">
+    ![2016 story](/img/portfolio/video-sauli-2.jpg "2017 Open Finnish Recumbent Championships preview")
+</a>
+
 # Videos from the past events
 
 #### 2016 - video by Sauli Nurila (Youtube)
