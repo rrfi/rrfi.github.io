@@ -49,3 +49,10 @@
     text: keskustelufoorumia, joka on aktiivinen nojapyöräilystä kiinnostuneiden 
           tietopankki ja avun lähde ongelmatilanteissa. Foorumilla on oma osionsa yhdistyksen
           asioille ja tiedotukselle.
+
+- subject:
+    img: 7.png
+    pos: left
+    heading: Hyväksymme ja listaamme
+    subheading: nojapyöräilyn Suomen ennätykset
+    text: Nykyisen listan löydät <a href="#portfolio">INFO osiosta</a>

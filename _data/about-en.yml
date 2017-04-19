@@ -43,10 +43,16 @@
           as well as fully faired velomobiles. There's no limit, there's no UCI rules.
           Many of us even build our very own individual machines.
 
-
 - subject:
     img: 6.jpg
     pos: right
     heading: We are running
     subheading: <a href="http://nojapyorafoorumi.fi" target="_blank">nojapyorafoorumi.fi</a>
     text: discussion forum, which is an active Finnish site for recumbent enthusiasts.
+
+- subject:
+    img: 7.png
+    pos: left
+    heading: We ratify and list
+    subheading: the Finnish HPV records
+    text: Current records can be found from the <a href="#portfolio">INFO section</a>

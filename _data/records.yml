@@ -1,0 +1,74 @@
+200m-fullyfaired:
+  title-fi: 200 m lentävä lähtö
+  class-fi: Katetut
+  title-en: 200 m flying start
+  class-en: Fully faired
+  records:
+  - record: 94.6 km/h
+    status: current
+    desc-fi: virallinen
+    desc-en: official
+    rider: Oliver Lehtonen
+    vehicle: Ristretto speedbike
+    date: "2.7.2012"
+    venue: Dekra test track, Klettwitz, Germany
+
+200m-unfaired:
+  title-fi: 200 m lentävä lähtö
+  class-fi: Kattamattomat
+  title-en: 200 m flying start
+  class-en: unfaired
+  records:
+  - record: 60.7 km/h
+    status: current
+    desc-fi: epävirallinen
+    desc-en: unofficial
+    rider: Tero Linnanen
+    vehicle: Velokraft NoCom
+    date: "4.8.2012"
+    venue: Nokian Tyres test track, Nokia, Finland
+
+1h-fullyfaired:
+  title-fi: Tunnin aika-ajo
+  class-fi: Katetut
+  title-en: 1 hour time trial
+  class-en: Fully faired
+  records:
+  - record: 78.9 km
+    status: current
+    desc-fi: virallinen
+    desc-en: official
+    rider: Oliver Lehtonen
+    vehicle: Ristretto speedbike
+    date: "30.6.2012"
+    venue: Dekra test track, Klettwitz,Germany
+  
+1h-unfaired:
+  title-fi: Tunnin aika-ajo
+  class-fi: Kattamattomat
+  title-en: 1 hour time trial
+  class-en: Unfaired
+  records:
+  - record: 45.53 km
+    status: current
+    desc-fi: virallinen
+    desc-en: official
+    rider: Tero Linnanan
+    vehicle: Velokraft NoCom
+    date: "31.7.2012"
+    venue: Helsinki Velodrome, Finland
+
+1h-trike:
+  title-fi: Tunnin aika-ajo
+  class-fi: Trike, Masters
+  title-en: 1 hour time trial
+  class-en: Trike, Masters
+  records:
+  - record: 35.574 km
+    status: current
+    desc-fi: virallinen
+    desc-en: official
+    rider: Pekka Heimonen
+    vehicle: Carbontrikes Race
+    date: "6.8.2016"
+    venue: Nokian Tyres test track, Nokia, Finland
