@@ -11,14 +11,16 @@
             <div class="row text-center">
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-circle fa-stack-2x text-muted"></i>
                         <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">
 						{{ site.data.texts.services[lang].saturday }}
 					</h4>
-                    <p class="text-primary">
-						{{ site.data.texts.services[lang].satdescr }}
+                    <p class="text-info">
+                        <b>
+						    {{ site.data.texts.services[lang].satdescr }}
+                        </b>
 					</p>
                     <p class="text-muted">
 					  <ul class="list text-muted">
@@ -36,14 +38,16 @@
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-circle fa-stack-2x text-muted"></i>
                         <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">
 						{{ site.data.texts.services[lang].sunday }}					
 					</h4>
-                    <p class="text-primary">
-						{{ site.data.texts.services[lang].sundescr }}
+                    <p class="text-info">
+                        <b>
+						    {{ site.data.texts.services[lang].sundescr }}
+                        </b>
 					</p>
 					  <ul class="list text-muted">
  						{% if lang == 'en' %}
@@ -59,7 +63,7 @@
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-circle fa-stack-2x text-muted"></i>
                         <i class="fa fa-bed fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">{{ site.data.texts.services[lang].accommodation }}</h4>

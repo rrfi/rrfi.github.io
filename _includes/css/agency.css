@@ -37,18 +37,18 @@ ul.nav {
 
 div.eventscalendar {
     margin: 20px 20px 0px 0px;
-    border: 1px solid #ccc;
+    border: 1px solid #{{ site.data.template.color.muted-light }};
     float: left;    
     height: 440px;
     width: 250px;
 }
 
 div.eventscalendar:hover {
-    border: 1px solid #777;
+    border: 1px solid #{{ site.data.template.color.muted }};
 }
 
 div.eventscalendar .when {
-    background: #ccc;
+    background: #{{ site.data.template.color.muted-light }};
     height: 100px;
     padding: 0 10px 0 10px;
     display: flex;
