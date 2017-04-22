@@ -16,11 +16,16 @@ contact:
     more: Jos haluat lisätietoja tai liittyä yhdistykseen, niin laita sähköpostia osoitteeseen
     payment: Maksaminen
     paypal:
-      Voit maksaa on-line PayPalin kautta alla olevia linkkejä käyttäen.<br>
-      Jos maksat perheen puolesta, lisää muiden ilmoittautuneiden perheenjäsenten nimet PayPal-maksun huomautustietoihin! 
+      Voit maksaa joko on-line PayPalin kautta tai perinteisesti tilisiirrolla.<br>
+      Lisää PayPal-maksun ja tilisiirron huomautustietoihin oma nimesi ja tarvittaessa myös muiden perheenjäsenten nimet! 
     paypal1: Osanottomaksu + RRF jäsenmaksu yhteensä 50.00 euroa.
     paypal2: Pelkkä osanottomaksu 40.00 euroa.
     paypal3: Pelkkä RRF jäsenmaksu 20.00 euroa.
+    banktransfertitle: Tilisiirto
+    banktransfer: 
+      Tilin haltija&#58; Recumbent Racing Finland ry<br>
+      Tilinumero&#58; FI45 1158 3000 2318 05<br>
+      Viitenumero&#58; 20174 (kaikki käyttävät samaa viitenumeroa)
 
   en:
     reg-title: Registration
