@@ -45,11 +45,16 @@ contact:
     more: For more info send email to
     payment: Payment
     paypal: 
-      You can pay on-line using PayPal links below.<br>
-      If you pay for the family, please list other family participants to the PayPal payment notes!
+      You can pay either on-line using PayPal links below or by wire transfer.<br>
+      If you pay for the family, please list other family participants to the payment notes!
     paypal1: Registration with RRF membership fee 50.00 euros.
     paypal2: Registration only 40.00 euros.
     paypal3: RRF membership fee only 20.00 euroa.
+    banktransfertitle: Bank account information
+    banktransfer: 
+      Account owner&#58; Recumbent Racing Finland ry<br>
+      Account number&#58; FI45 1158 3000 2318 05<br>
+      Reference number&#58; 20174
 
 team:
   fi:
