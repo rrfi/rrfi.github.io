@@ -94,6 +94,10 @@ postsgrid:
     subtitle: Miscellaneous event information
     gallery: Photos
 
+records:
+  fi: Nojapyörien Suomen ennätykset
+  en: Recumbent Finnish National Records
+
 services:
   fi:
     title: Nojapyöräilyn <br>avoin 2017 SM-kilpailu<br> ja harrastajien kokoontuminen
@@ -104,7 +108,10 @@ services:
     sunday: Sunnuntai 6. elokuuta
     sundescr: 12 h aika-ajo<br>6 h aika-ajo
     accommodation: Majoitus
-    accdescr: Majoitusmahdollisuus mökeissä Alisniemessä ja omatoimisesti rata-alueella.<br>(Huom! rata-alueella ei ole juomakelpoista vettä, eikä peseytymismahdollisuuksia).
+    accdescr: 
+      Majoitusjärjestelyt ovet vielä työn alla. Tällä hetkellä suunnitelma on tämä:<br>
+      Majoitusmahdollisuus mökeissä Alisniemessä ja omatoimisesti rata-alueella.<br>
+      (Huom! rata-alueella ei ole juomakelpoista vettä, eikä peseytymismahdollisuuksia).
   en:
     title: Recumbent<br> Open 2017 Finnish Championships<br> and meet-up
     subtitle: There's a legend that some folks are seriously training for this event.
@@ -114,7 +121,10 @@ services:
     sunday: Sunday 6th August
     sundescr: 12 h race<br>6 h race
     accommodation: Where to sleep
-    accdescr: Cottages may be reserved from Alisniemi. It's also possible to sleep in a tent or caravan at the track area.<br>(Note! no drinking water, neither bathrooms at the track).
+    accdescr: 
+      We are still working on accommodation. At the moment the plan is this:<br>
+      Cottages may be reserved from Alisniemi. It's also possible to sleep in a tent or 
+      caravan at the track area.<br>(Note! no drinking water, neither bathrooms at the track).
 
 other:
   fi:
@@ -128,6 +138,7 @@ other:
     addevent: Ilmoita tiedot online
     eventinstructions: Klikkaa tästä ja täytä kysytyt tiedot formille. Lisäämme tapahtuman näkyviin asap!
     calendar: Kalenteri
+    media: Media
 
   en:
     racelink: 2017 race
@@ -141,3 +152,4 @@ other:
     eventinstructions: If you think we have missed a recumbent event, click
       here and fill-in the required info. We'll be happy to add the event asap!
     calendar: Calendar
+    media: Media download

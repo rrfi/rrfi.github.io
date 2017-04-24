@@ -30,8 +30,7 @@ Rataprofiilin alla olevaan satelliittikuvaan on merkattu etäisyysluvut helpotta
 WC löytyy huoltorakennuksesta, ja rata-alueella on lisäksi erillisiä WC-koppeja. Käytä vain merkittyjä
 vessoja (ovessa A4-lappu ”WC”).
 
-Radalla ei ole peseytymismahdollisuutta, mutta Alisniemen päärakennuksen pesutilat ja sauna ovat
-käytettävissämme viikonlopun ajan.
+Radalla ei ole peseytymismahdollisuutta.
 
 *HUOM! Huoltorakennuksen hanavesi ei ole juomakelpoista!*
 

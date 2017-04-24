@@ -1,0 +1,59 @@
+---
+title: Records
+---
+
+    {% if page.url contains '/en' %}
+        {% assign lang = 'en' %}
+    {% else %}
+        {% assign lang = 'fi' %}
+    {% endif %}
+        
+    {% include head.html %}
+
+    <body id="page-top" class="index">
+    {% include plain-header.html %}
+        <div class="gallerypad">
+        </div>
+
+        <div class="container">
+            <h2>{{ site.data.texts.other[lang].records }}</h2>
+            <div class="row text-center">
+            {% assign records = site.data.records %}
+            {% for record in records %}
+                {% if lang == 'en' %}
+                    {% assign title = record.title-en %}
+                    {% assign class = record.class-en %}
+                {% else %}
+                    {% assign title = record.title-fi %}
+                    {% assign class = record.class-fi %}
+                {% endif %}
+
+                {% for rec in record.records %}
+                <div class="record">
+                    <div class="record-title {{ rec.status }}">
+                        <h3>{{ title }}<br>{{ class }}</h3>
+                    </div>
+                    <div class="recordimg">
+                        {% if rec.desc == 'official' %}
+                        <img src="/img/official-gold-laurels-{{ rec.status }}.png" alt="{{ title }}">
+                        {% else %}
+                        <img src="/img/unofficial-gold-laurels-{{ rec.status }}.png" alt="{{ title }}">
+                        {% endif %}
+                    </div>
+                    <div class="desc text-muted">
+                        <h2>{{ rec.record }}</h2>
+                        <h3>{{ rec.rider }}</h3>
+                        <p class="text-muted">
+                            {{ rec.date }}<br>
+                            {{ rec.vehicle }}<br>
+                            {{ rec.venue }}
+                        </p>
+                    </div>
+                </div>
+                {% endfor %}
+            {% endfor %}
+            </div>
+        </div>
+    {% include footer.html %}
+    </body>
+    {% include js.html %}

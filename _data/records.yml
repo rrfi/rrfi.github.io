@@ -6,11 +6,10 @@
   records:
   - record: 94.6 km/h
     status: current
-    desc-fi: virallinen
-    desc-en: official
+    desc: official
     rider: Oliver Lehtonen
     vehicle: Ristretto speedbike
-    date: "2.7.2012"
+    date: 2012-07-02
     venue: Dekra test track, Klettwitz, Germany
 
 - race:
@@ -21,11 +20,10 @@
   records:
   - record: 60.7 km/h
     status: current
-    desc-fi: epävirallinen
-    desc-en: unofficial
+    desc: unofficial
     rider: Tero Linnanen
     vehicle: Velokraft NoCom
-    date: "4.8.2012"
+    date: 2012-08-04
     venue: Nokian Tyres test track, Nokia, Finland
 
 - race:
@@ -36,11 +34,10 @@
   records:
   - record: 78.9 km
     status: current
-    desc-fi: virallinen
-    desc-en: official
+    desc: official
     rider: Oliver Lehtonen
     vehicle: Ristretto speedbike
-    date: "30.6.2012"
+    date: 2012-06-30
     venue: Dekra test track, Klettwitz,Germany
   
 - race:
@@ -51,11 +48,10 @@
   records:
   - record: 45.53 km
     status: current
-    desc-fi: virallinen
-    desc-en: official
-    rider: Tero Linnanan
+    desc: official
+    rider: Tero Linnanen
     vehicle: Velokraft NoCom
-    date: "31.7.2012"
+    date: 2012-07-31
     venue: Helsinki Velodrome, Finland
 
 - race:
@@ -66,9 +62,8 @@
   records:
   - record: 35.574 km
     status: current
-    desc-fi: virallinen
-    desc-en: official
+    desc: official
     rider: Pekka Heimonen
     vehicle: Carbontrikes Race
-    date: "6.8.2016"
+    date: 2016-08-06
     venue: Nokian Tyres test track, Nokia, Finland

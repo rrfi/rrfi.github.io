@@ -1,7 +1,39 @@
   <footer>
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-4 text-left">
+                    <p>
+                        <a href="/#2017 race">{{ site.data.texts.other[lang].racelink }}</a>
+                    </p>
+                    <p>
+                        <a href="/#portfolio">{{ site.data.texts.other[lang].infolink }}</a>
+                    </p>
+                    <p>
+                        <a href="/#about">{{ site.data.texts.about[lang].title }}</a>
+                    </p>
+                    <p>
+                        <a href="/#team">{{ site.data.texts.team[lang].link }}</a>
+                    </p>
+                </div>
+                <div class="col-md-4 text-left">
+                    <p>
+                        <a href="/#contact">{{ site.data.texts.contact[lang].reg-title }}</a>
+                    </p>
+                    <p>
+                        <a href="/{{ lang }}/records">{{ site.data.texts.records[lang] }}</a>
+                    </p>
+                    <p>
+                        <a href="/{{ lang }}/events">{{ site.data.texts.other[lang].calendar }}</a>
+                    </p>
+                </div>
+                <div class="col-md-4 text-left">
+                    <p>
+                        <a href="/resources/rrf_logos_all.pdf" target="_blank">{{ site.data.texts.other[lang].media }}</a>
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 text-left">
                     <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
                 </div>
                 <div class="col-md-4">
@@ -12,11 +44,10 @@
                         {% endfor %}
                     </ul>
                 </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Stay hungry, stay foolish</a>
-                        </li>
-                    </ul>
+                <div class="col-md-4 text-right">
+                    <span>
+                        Stay hungry, stay foolish
+                    </span>
                 </div>
             </div>
         </div>

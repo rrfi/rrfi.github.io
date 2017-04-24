@@ -10,6 +10,11 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+footer {
+    background-color: #222;
+    color: #fff;
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
@@ -35,6 +40,15 @@ ul.nav {
     display: inline;
 }
 
+div.record {
+    margin: 20px 20px 0px 0px;
+    border: 1px solid #{{ site.data.template.color.muted-light }};
+    border-radius: 5px;
+    float: left;    
+    height: 500px;
+    width: 400px;
+}
+
 div.eventscalendar {
     margin: 20px 20px 0px 0px;
     border: 1px solid #{{ site.data.template.color.muted-light }};
@@ -43,12 +57,31 @@ div.eventscalendar {
     width: 250px;
 }
 
-div.eventscalendar:hover {
+div.record .record-title {
+    color: #fff;
+    height: 100px;
+    padding: 0 10px 0 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 5px 5px 0 0;
+}
+
+div.record .current {
+    background-color: #{{ site.data.template.color.primary }};
+}
+
+div.record .old {
+    background-color: #{{ site.data.template.color.muted }};
+}
+
+div.eventscalendar:hover, div.record:hover {
     border: 1px solid #{{ site.data.template.color.muted }};
 }
 
 div.eventscalendar .when {
-    background: #{{ site.data.template.color.muted-light }};
+    background-color: #{{ site.data.template.color.primary }};
+    color: #fff;
     height: 100px;
     padding: 0 10px 0 10px;
     display: flex;
@@ -75,9 +108,16 @@ div.eventscalendar .desc h4 {
     margin: 0 0 10px 0;
 }
 
-div.eventscalendar .eventimg {
+div.eventscalendar .eventimg, div.record .recordimg img {
     width: auto;
     height: 160px;
+}
+
+div.record .recordimg img {
+    max-width: 190px;
+    height: auto;
+    overflow: hidden;
+    padding: 30px 0 10px 0;
 }
 
 div.eventscalendar .eventimg .fa-stack {
@@ -479,6 +519,7 @@ section h3.section-subheading {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    background-color: #fff;
 }
 
 
