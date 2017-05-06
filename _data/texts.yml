@@ -1,8 +1,9 @@
 contact:
   fi:
     reg-title: Ilmoittautuminen
-    subscribe: Ilmoittaudu
-    form: On-line ilmoittautumislomake (ei toimi IE-selaimella, sorry)
+    subscribe: Hinnat&#58;
+    form: On-line ilmoittautumislomake
+    form-note: (lomake ei toimi IE-selaimella, sorry)
     prices1: 
       Ennen 15.7. ilmoittauduttaessa on osallistumismaksu<br>
       RRF:n jäseniltä 30 euroa (sis. heidän perheenjäsenensä),<br> 
@@ -29,8 +30,9 @@ contact:
 
   en:
     reg-title: Registration
-    subscribe: Sign up now
-    form: On-line registration form (does not support IE, sorry)
+    subscribe: Prices&#58;
+    form: On-line registration form
+    form-note: (form does not support IE, sorry)
     prices1: 
       If you register before 15th July, the registration fee is<br>
       30 euros for RRF members (includes all participants of a family),<br>
@@ -138,7 +140,8 @@ other:
     addevent: Ilmoita tiedot online
     eventinstructions: Klikkaa tästä ja täytä kysytyt tiedot formille. Lisäämme tapahtuman näkyviin asap!
     calendar: Kalenteri
-    media: Media
+    media: Media download
+    contact: info@rrfi.fi
 
   en:
     racelink: 2017 race
@@ -153,3 +156,4 @@ other:
       here and fill-in the required info. We'll be happy to add the event asap!
     calendar: Calendar
     media: Media download
+    contact: info@rrfi.fi

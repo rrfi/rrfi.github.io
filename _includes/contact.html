@@ -21,22 +21,17 @@
                     {% endif %}                            
                         <span class="fa-stack fa-4x">
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-file fa-stack-1x fa-inverse"></i>
-                        </span>
+                            <i class="fa fa-file-text-o fa-stack-1x fa-inverse"></i>
+                        </span><br>{{ site.data.texts.contact[lang].form }}
                     </a>
+                    <p>
+        			    <span class="text-muted">
+                        {{ site.data.texts.contact[lang].form-note }}
+                        </span>
+                    </p>
 					<p>
                         {{ site.data.texts.contact[lang].subscribe }}
-                    </p>
-                    <p>
-                        {% if lang == 'en' %}
-        			    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeoS0NuRA8kjvFWyiwN12WowhALUeSL0ClKp43dQpCxO_yCGg/viewform" target="_blank">
-                        {{ site.data.texts.contact[lang].form }}
-                        {% else %}
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7_ds9VMDyp2eTCbH4u-YvQcO3DJE2zEBT3lHmgLVZXBeJ9Q/viewform" target="_blank">
-                        {{ site.data.texts.contact[lang].form }}
-                        {% endif %}                            
-		                </a>
-                    </p>
+                    </p> 
 					<p class="text-muted">
                         {{ site.data.texts.contact[lang].prices1 }}
                     </p> 
@@ -52,8 +47,11 @@
                         <i class="fa fa-circle fa-stack-2x text-muted"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
-					<p>{{ site.data.texts.contact[lang].more }}</p>
-                    <p>recracfin(at)gmail.com</p>
+					<p>
+                        {{ site.data.texts.contact[lang].more }}</p>
+                    <p>
+                        <a href="mailto:{{ site.data.texts.other[lang].contact }}">{{ site.data.texts.other[lang].contact }}</a>
+                    </p>
                 </div>
             </div>
             <div class="row">
