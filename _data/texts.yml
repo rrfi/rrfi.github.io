@@ -142,7 +142,7 @@ other:
     calendar: Kalenteri
     media: Media download
     contact: info@rrfi.fi
-
+    intranet: RRF intranet
   en:
     racelink: 2017 race
     infolink: Info and results
@@ -157,3 +157,28 @@ other:
     calendar: Calendar
     media: Media download
     contact: info@rrfi.fi
+    intranet: RRF intranet
+
+program:
+  fi:
+    announcement-title:
+      Varikolla esillä
+    announcement-1:
+      <a href="http://arcusvelomobile.com" target="_blank">Kaarikinneri Oy - Arcusvelomobile Ltd</a> tuo lauantaina Nokialle useita maahantuomiaan nojapyöriä näytille ja koeajettavaksi. 
+    announcement-2:
+      Nokialla on esillä ainakin yrityksen päätuote Arcus velomobiilikate ja aikataulun salliessa myös uusi Arcus II.
+      Arcuksen lisäksi esillä ovat ICE Sprint-X 26" ja Azubilta taittuvarunkoiset kaksipyöräinen Origami sekä kolmipyöräinen TRIcon 20F.
+      ICE Sprintillä voi kokeilla vaikka omaa 200m nopeusennätystä tai osallistua tunnin ajoon jonkun niin halutessa. 
+    announcement-3:
+      Nojakit ovat esillä Nokialla lauantaina 5. elokuuta koko päivän.
+
+  en:
+    announcement-title:
+      On stand
+    announcement-1:
+      <a href="http://arcusvelomobile.com" target="_blank">Arcusvelomobile Ltd</a> will display several recumbents on their stand at Nokia track area on Saturday.
+    announcement-2:
+      Available will be at least their main product Arcus velomobile fairing and - if schedule allows - also the brand new Arcus II .
+      On the stand you will find also the ICE Sprint-X 26" and two foldables&#58; two wheeler Azub Origami and three wheeler TRIcon 20F.
+    announcement-3:
+      All bikes are available on Saturday for test rides, you can even participate to 200 m sprint with the ICE Sprint-X.
