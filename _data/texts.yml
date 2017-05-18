@@ -114,6 +114,9 @@ services:
       Majoitusjärjestelyt ovet vielä työn alla. Tällä hetkellä suunnitelma on tämä:<br>
       Majoitusmahdollisuus mökeissä Alisniemessä ja omatoimisesti rata-alueella.<br>
       (Huom! rata-alueella ei ole juomakelpoista vettä, eikä peseytymismahdollisuuksia).
+    safety: 
+      Huom! Kilpailulähtöjä edeltävät Safety briefing sessiot ovat pakollisia kaikille osallistujille,
+      joten lähtöruudukossa on oltava jo 10 minuuttia ennen suorituksen alkua.
   en:
     title: Recumbent<br> Open 2017 Finnish Championships<br> and meet-up
     subtitle: There's a legend that some folks are seriously training for this event.
@@ -127,7 +130,9 @@ services:
       We are still working on accommodation. At the moment the plan is this:<br>
       Cottages may be reserved from Alisniemi. It's also possible to sleep in a tent or 
       caravan at the track area.<br>(Note! no drinking water, neither bathrooms at the track).
-
+    safety: 
+      Note! Safety briefing sessions are mandatory for participants, so you 
+      need to be on the starting grid 10 minutes before the race starts.
 other:
   fi:
     racelink: 2017 race

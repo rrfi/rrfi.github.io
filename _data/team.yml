@@ -2,6 +2,7 @@
 people:
 - name: Teppo Mäkelä
   pic: 1
+  email: teppo.makela@rrfi.fi
   position-fi: Nokian kilpailujen isä. Tapahtuman johtaja, ratamestari. Teppo hoitaa.
   position-en: Mastermind of the event. Race commander, track maister. Teppo takes care of everything.
   position-se: Mastermind of the event. Race commander, track maister. Teppo takes care of everything.
@@ -9,6 +10,7 @@ people:
 
 - name: Tero Linnanen
   pic: 2
+  email: tero.linnanen@rrfi.fi
   position-fi: Hallituksen puheenjohtaja. Kansainväliset kisat kolunnut kisakonkari ja hiilikuiturakentaja.
   position-en: Chairman of the board. Regular competitor in international races. Carbon fiber specialist. 
   position-se: Chairman of the board. Regular competitor in international races. Carbon fiber specialist. 
@@ -16,6 +18,7 @@ people:
 
 - name: Pasi Räsämäki
   pic: 3
+  email: pasi.rasamaki@rrfi.fi
   position-fi: HC nojapyöräilijä Joensuusta.
   position-en: HC recumbent rider and builder from the North Karelian town of Joensuu.
   position-se: HC recumbent rider and builder from the North Karelian town of Joensuu.
@@ -23,6 +26,7 @@ people:
 
 - name: Sauli Nurila
   pic: 5
+  email: sauli.nurila@rrfi.fi
   position-fi: Kinneristi Kälviän tasangoilta. Ansioitunut someaktivisti.
   position-en: Velomobile rider from the western flatlands. Reputed social media activist.
   position-se: Velomobile rider from the western flatlands. Reputed social media activist.
@@ -42,6 +46,7 @@ people:
        
 - name: Henri Heikkari
   pic: 6
+  email: henri.heikkari@rrfi.fi
   position-fi: Kemppi-tyylin virittäjä Suomen Mansesterista.
   position-en: >
      "Fine-tuning by welding" specialist from Manchester Finland.
@@ -51,6 +56,7 @@ people:
 
 - name: Pekka Heimonen
   pic: 4
+  email: pekka.heimonen@rrfi.fi
   position-fi: Suomen nojapyöräilyn lahja Ranskalle. Masters luokan tunnin ajon maailmanennätys 2016. Webmaster. 
   position-en: The French connection. Masters World Hour Record 2016. Webmaster. 
   position-se: The French connection. Masters World Hour Record 2016. Webmaster. 

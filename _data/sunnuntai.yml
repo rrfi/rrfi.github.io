@@ -3,12 +3,20 @@
   descr: Ilmoittautuminen (12 h)
 
 - program:
+  time: "klo 7:50"
+  descr: Safety briefing kuljettajille lähtöruudukossa
+
+- program:
   time: klo 8
   descr: 12 tunnin ajo alkaa
 
 - program:
   time: klo 9-9:45
   descr: Ilmoittautuminen (6 h)
+
+- program:
+  time: "klo 9:50"
+  descr: Safety briefing kuljettajille lähtöruudukossa
 
 - program:
   time: klo 10

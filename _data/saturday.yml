@@ -11,8 +11,12 @@
   descr: Event opening session
 
 - program:
+  time: "11:20"
+  descr: Safety briefing for pilots at starting grid
+
+- program:
   time: "11:30"
-  descr: Pilot briefing and 200 meter race start
+  descr: Start of 200 meter sprint rounds
 
 - program:
   time: 14:30-17
@@ -23,8 +27,16 @@
     - Test rides
 
 - program:
+  time: "15:50"
+  descr: Safety briefing for pilots at starting grid
+
+- program:
   time: "16:00"
   descr: 1 hour race, group I ("slow")
+
+- program:
+  time: "16:50"
+  descr: Safety briefing for pilots at starting grid
 
 - program:
   time: "17:00"

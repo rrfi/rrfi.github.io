@@ -18,6 +18,9 @@
                     <div class="team-member">
                         <img src="/img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
+                        <p class="">
+                            <a href="mailto://{{ member.email }}">{{ member.email }}</a>
+                        </p>
                         {% if lang == 'en' %}
                         <p class="text-muted">{{ member.position-en }}</p>
                         {% else %}

@@ -11,8 +11,12 @@
   descr: Tapahtuman avaus
 
 - program:
+  time: "klo 11:20"
+  descr: Safety briefing kuljettajille lähtöruudukossa 
+
+- program:
   time: klo 11:30
-  descr: 200 metrin osallistujainfo ja aloitus
+  descr: 200 metrin sprint suoritukset alkavat
 
 - program:
   time: klo 14:30-17
@@ -23,8 +27,16 @@
     - Pyörien koeajomahdollisuus
 
 - program:
+  time: "klo 15:50"
+  descr: Safety briefing kuljettajille lähtöruudukossa
+
+- program:
   time: klo 16
   descr: Tunnin aika-ajo, ryhmä I ("hidas")
+
+- program:
+  time: "klo 16:50"
+  descr: Safety briefing kuljettajille lähtöruudukossa
 
 - program:
   time: klo 17
