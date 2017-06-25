@@ -13,6 +13,12 @@ description: Tätä on Nokian kisaviikonloppu
 Perinteinen Nokian tapahtuma on suomalaisten nojapyöräilijöiden vuoden kohokohta, viikonloppu, jossa yhdistyvät kilpailu, ajaminen, 
 nojapyörien koeajot ja ihan vaan jutustelu ja ajanvietto muiden alan harrastajien kanssa.
 
+#### RADAN OSOITE
+
+Nokian Renkaiden testirata  
+Testiradantie 57  
+37130 Nokia  
+
 #### Kaikki mukaan
 Kisaviikonloppu sujuu rennolla meiningillä. Vaikka kyseessä ovat kilpailut, radalla on tilaa myös leppoisalle sunnuntai-ajelulle - 
 iso osa osallistujista kilpailee vain itseään vastaan ja hyödyntää tapahtuman antaman mahdollisuuden ajaa pitkäkestoinen 
