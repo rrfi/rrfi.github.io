@@ -169,7 +169,7 @@ program:
     announcement-title:
       Varikolla esillä
     announcement-1:
-      <a href="http://arcusvelomobile.com" target="_blank">Kaarikinneri Oy - Arcusvelomobile Ltd</a> tuo lauantaina Nokialle useita maahantuomiaan nojapyöriä näytille ja koeajettavaksi. 
+      <a href="http://arcusvelomobile.com" target="_blank">Kaarikinneri Oy - Arcusvelomobile Ltd</a><br> tuo lauantaina Nokialle useita maahantuomiaan nojapyöriä näytille ja koeajettavaksi. 
     announcement-2:
       Nokialla on esillä ainakin yrityksen päätuote Arcus velomobiilikate ja aikataulun salliessa myös uusi Arcus II.
       Arcuksen lisäksi esillä ovat ICE Sprint-X 26" ja Azubilta taittuvarunkoiset kaksipyöräinen Origami sekä kolmipyöräinen TRIcon 20F.
@@ -177,19 +177,26 @@ program:
     announcement-3:
       Nojakit ovat esillä Nokialla lauantaina 5. elokuuta koko päivän.
     announcement-4: 
-      <a href="http://www.takakenobikes.fi/" target="_blank">Takakenobikes</a> tuo varikolle katsottavaksi ja koeajettavaksi 
+      <a href="http://www.takakenobikes.fi/" target="_blank">Takakenobikes</a><br> tuo varikolle katsottavaksi ja koeajettavaksi 
       ainakin Hase Kettwiesel triken, mahdollisesti muitakin edustamiaan nojapyöriä.
+    announcement-5: 
+      <a href="https://apuvalineavux.fi/" target="_blank">Apuväline Avux</a><br> on jo useamman vuoden myynyt 
+      HP Velotechnik ja Hasebikes nojapyöriä Suomessa. He tuovat Nokian tapahtumavarikolla esittelyyn
+      HP Velotechnik Gekko 26 ja Hase Ketwiesel mallit. Kummatkin trike-mallit ovat myös koeajettavissa.
 
   en:
     announcement-title:
       On stand
     announcement-1:
-      <a href="http://arcusvelomobile.com" target="_blank">Arcusvelomobile Ltd</a> will display several recumbents on their stand at Nokia track area on Saturday.
+      <a href="http://arcusvelomobile.com" target="_blank">Arcusvelomobile Ltd</a><br> will display several recumbents on their stand at Nokia track area on Saturday.
     announcement-2:
       Available will be at least their main product Arcus velomobile fairing and - if schedule allows - also the brand new Arcus II .
       On the stand you will find also the ICE Sprint-X 26" and two foldables&#58; two wheeler Azub Origami and three wheeler TRIcon 20F.
     announcement-3:
       All bikes are available on Saturday for test rides, you can even participate to 200 m sprint with the ICE Sprint-X.
     announcement-4: 
-      <a href="http://www.takakenobikes.fi/" target="_blank">Takakenobikes</a> is also present at the paddock. 
+      <a href="http://www.takakenobikes.fi/" target="_blank">Takakenobikes</a><br> is also present at the paddock. 
       They will show at least Hase Kettwiesel trike, which is also available for test rides.
+    announcement-5: 
+      <a href="https://apuvalineavux.fi/" target="_blank">Apuväline Avux</a><br> will be present at the paddock too,
+      with HP Velotechnik Gekko 26 and Hase Ketwiesel. Both trikes are available for test rides.

@@ -798,6 +798,10 @@ section h3.section-subheading {
     }
 }
 
+.announcements p a {
+    font-size: 16px;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
