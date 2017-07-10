@@ -103,17 +103,26 @@ records:
 services:
   fi:
     title: Nojapyöräilyn <br>avoin 2017 SM-kilpailu<br> ja harrastajien kokoontuminen
-    subtitle: Huhutaan, että jossain treenataan ja toisaalla rakennetaan outoa kilpakonetta tähän tapahtumaan.
-    text: Alla oleva ohjelma ja aikataulu on vielä alustava.
+    subtitle: H-hetki lähestyy...
+    text: Tapahtumaviikonlopun ohjelma.
     saturday: Lauantai 5. elokuuta
     satdescr: 200 metrin lentävän lähdön sprintti. <br>Tunnin aika-ajo.
     sunday: Sunnuntai 6. elokuuta
     sundescr: 12 h aika-ajo<br>6 h aika-ajo
     accommodation: Majoitus
     accdescr: 
-      Majoitusjärjestelyt ovet vielä työn alla. Tällä hetkellä suunnitelma on tämä:<br>
-      Majoitusmahdollisuus mökeissä Alisniemessä ja omatoimisesti rata-alueella.<br>
-      (Huom! rata-alueella ei ole juomakelpoista vettä, eikä peseytymismahdollisuuksia).
+      Alisniemessä <a href="http://www.alisniemi.com/">www.alisniemi.com</a> Alispirtin (5 makuupaikkaa) ja Pikkupirtin 
+      (4 makuupaikkaa) lisäksi käytössämme on päärakennuksen sali, jonka lattialle pääsee myös 
+      yöpymään (omat patjat/makuualustat mukaan). Päärakennus on varattu sunnuntaina toiseen 
+      käyttöön, joten sen pitää olla tyhjä meidän osalta klo 12 mennessä. 
+      Su-ma -yön majoitus siis vain mökeissä, tai omassa teltassa/riippumatossa. 
+
+      <p>Rata-alueella voi yöpyä la-su- sekä su-ma-öinä huoltorakennuksen lattialla 
+      (renkaanvaihtohallissa yhdessä pyörien kanssa), tai omissa majoitteissa 
+      (asuntoauto/-vaunu, teltta, riippumatto).</p>
+
+      <p>Rata-alueella ei ole peseytymismahdollisuutta eikä juomiskelpoista vettä 
+      (poislukien kanistereilla paikalle tuotava juomavesi).</p>
     safety: 
       Huom! Kilpailulähtöjä edeltävät Safety briefing sessiot ovat pakollisia kaikille osallistujille,
       joten lähtöruudukossa on oltava jo 10 minuuttia ennen suorituksen alkua.
@@ -127,8 +136,8 @@ services:
     sundescr: 12 h race<br>6 h race
     accommodation: Where to sleep
     accdescr: 
-      We are still working on accommodation. At the moment the plan is this:<br>
-      Cottages may be reserved from Alisniemi. It's also possible to sleep in a tent or 
+      Some cottages are reserved from <a href="http://www.alisniemi.com/">Alisniemi</a>. 
+      It's also possible to sleep in a tent or 
       caravan at the track area.<br>(Note! no drinking water, neither bathrooms at the track).
     safety: 
       Note! Safety briefing sessions are mandatory for participants, so you 
