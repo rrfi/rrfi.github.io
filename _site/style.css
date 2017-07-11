@@ -178,6 +178,26 @@ div.gallery div.desc {
     height: 100%;
 }
 
+#clockdiv {
+    text-transform: uppercase;
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 4em;
+    color: #fec503;
+}
+
+#clockdiv span.smalltext {
+    width: 3em;
+    font-size: 0.2em;
+    margin: 0 10px 0 -15px;
+
+}
+
+#clockdiv span {
+    display: inline-block;
+    width: 1.4em;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -462,7 +482,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 

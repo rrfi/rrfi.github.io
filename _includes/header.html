@@ -80,6 +80,21 @@
                     {% endif %}                            
                     
                 </div>
+                <div id="clockdiv">
+                    <div>
+                        <span class="days"></span>
+                        <span class="smalltext">
+                    {% if page.url contains '/en' %}
+                            Days
+                    {% else %}
+                            Päivää
+                    {% endif %}                                                                    
+                        </span>
+                        <span class="hours"></span>:
+                        <span class="minutes"></span>:
+                        <span class="seconds"></span>
+                    </div>
+                </div>
                 <a href="#2017 race" class="page-scroll btn btn-xl">
                     {% if page.url contains '/en' %}
                         Tell me more
@@ -97,9 +112,4 @@
             </div>
         </div>
     </header>
-<!--
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
- -->
 
