@@ -178,14 +178,14 @@ div.gallery div.desc {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     font-size: 4em;
+    line-height: 0.75em;
     color: #{{ site.data.template.color.secondary }};
+    margin-bottom: 0.5em;
 }
 
 #clockdiv span.smalltext {
-    width: 3em;
     font-size: 0.2em;
-    margin: 0 10px 0 -15px;
-
+    margin: 0 10px 0 0;
 }
 
 #clockdiv span {
