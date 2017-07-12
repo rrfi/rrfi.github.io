@@ -16,8 +16,8 @@ Muista, että radalla on samanaikaisesti hyvin eri nopeuksisia ajoneuvoja ja nop
 olla helposti viidenkympin luokkaa.
 
 Ajaminen radalla tapahtuu omalla vastuulla. RRF ei ota mitään vastuuta mahdollisessa onnettomuus-, tai 
-vahinkotilanteessa. Radalla ajamisen edellytyksenä on vastuuvapauslomakkeen täyttäminen 
-ja allekirjoittaminen. Vastuuvapauslomakkeella rata-ajoon osallistuva vapauttaa yhdistyksen, ja sen 
+vahinkotilanteessa. Radalla ajamisen edellytyksenä on [vastuuvapauslomakkeen](/resources/Vastuuvapaussopimus_2017.pdf) täyttäminen 
+ja allekirjoittaminen. [Vastuuvapauslomakkeella](/resources/Vastuuvapaussopimus_2017.pdf) rata-ajoon osallistuva vapauttaa yhdistyksen, ja sen 
 toimihenkilöt kaikesta vastuusta minkä tahansa vahingon sattuessa. 
 
 #### Säännöt
