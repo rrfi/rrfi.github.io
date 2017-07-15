@@ -18,7 +18,7 @@ contact:
     payment: Maksaminen
     paypal:
       Voit maksaa joko on-line PayPalin kautta tai perinteisesti tilisiirrolla.<br>
-      Lisää PayPal-maksun ja tilisiirron huomautustietoihin oma nimesi ja tarvittaessa myös muiden perheenjäsenten nimet! 
+      Lisää PayPal-maksun huomautustietoihin oma nimesi ja tarvittaessa myös muiden perheenjäsenten nimet! 
     paypal1: Osanottomaksu + RRF jäsenmaksu yhteensä 50.00 euroa.
     paypal2: Pelkkä osanottomaksu 40.00 euroa.
     paypal3: Pelkkä RRF jäsenmaksu 20.00 euroa.
