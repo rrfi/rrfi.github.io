@@ -103,7 +103,7 @@ records:
 services:
   fi:
     title: Nojapyöräilyn <br>avoin 2017 SM-kilpailu<br> ja harrastajien kokoontuminen
-    subtitle: H-hetki lähestyy...
+    subtitle: Tapahtuma sujui lähes aikataulun mukaisesti
     text: Tapahtumaviikonlopun ohjelma.
     saturday: Lauantai 5. elokuuta
     satdescr: 200 metrin lentävän lähdön sprintti. <br>Tunnin aika-ajo.
@@ -127,8 +127,8 @@ services:
       joten lähtöruudukossa on oltava jo 10 minuuttia ennen suorituksen alkua.
   en:
     title: Recumbent<br> Open 2017 Finnish Championships<br> and meet-up
-    subtitle: There's a legend that some folks are seriously training for this event.
-    text: Preliminary program is as follows
+    subtitle: Everything went almost in schedule
+    text: Program was as follows
     saturday: Saturday 5th August
     satdescr: 200 meters flying start. <br>1 hour race.
     sunday: Sunday 6th August
