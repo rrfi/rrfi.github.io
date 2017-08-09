@@ -14,6 +14,11 @@ alt: image-alt
     ![2016 story](/img/portfolio/video-sauli-2017.png "2017 Open Finnish Recumbent Championships in action")
 </a>
 
+#### 2017 - 200 m video by Tuomo Vuolle (Youtube)
+<a href="https://www.youtube.com/watch?v=XcOQyducRKY" target="_blank">
+    ![2016 story](/img/portfolio/video-tuomo-2017.png "2017 200m flying start")
+</a>
+
 #### 2016 - video by Sauli Nurila (Youtube)
 <a href="https://youtu.be/sWfOTI_27Nw" target="_blank">
     ![2016 story](/img/portfolio/video-sauli-1.jpg "2016 Nordic Championships at Nokia track")
