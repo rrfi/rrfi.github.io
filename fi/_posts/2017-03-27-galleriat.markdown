@@ -4,19 +4,15 @@ subtitle:
 layout: default
 modal-id: 9
 date: 2017-03-28
-img: GOPR1267.jpg
+img: 
 thumbnail: GOPR1267.jpg
 alt: image-alt
 ---
 
-# Coming soon: 2017 Open Finnish Recumbent Championships
-
-#### 2017 preview - video by Sauli Nurila (Youtube)
-<a href="https://youtu.be/FmSwAHZX02k" target="_blank">
-    ![2016 story](/img/portfolio/video-sauli-2.jpg "2017 Open Finnish Recumbent Championships preview")
+#### 2017 action video by Sauli Nurila (Youtube)
+<a href="https://youtu.be/CIM8pZFYsf0" target="_blank">
+    ![2016 story](/img/portfolio/video-sauli-2017.png "2017 Open Finnish Recumbent Championships in action")
 </a>
-
-## Kisavideoita eri vuosilta
 
 #### 2016 - video by Sauli Nurila (Youtube)
 <a href="https://youtu.be/sWfOTI_27Nw" target="_blank">
