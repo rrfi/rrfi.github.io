@@ -1,6 +1,6 @@
 - program:
   time: klo 7-7:45
-  descr: Ilmoittautuminen (12 h)
+  descr: Ilmoittautuminen (12 h ja 6 h)
 
 - program:
   time: "klo 7:50"
@@ -8,26 +8,14 @@
 
 - program:
   time: klo 8
-  descr: 12 tunnin ajo alkaa
+  descr: 12 ja 6 tunnin ajot alkavat
 
 - program:
-  time: klo 9-9:45
-  descr: Ilmoittautuminen (6 h)
-
-- program:
-  time: "klo 9:50"
-  descr: Safety briefing kuljettajille lähtöruudukossa
-
-- program:
-  time: klo 10
-  descr: 6 tunnin ajo alkaa
-
-- program:
-  time: klo 16
+  time: klo 14
   descr: 6 tunnin ajo päättyy
 
 - program:
-  time: klo 16:15
+  time: klo 14:30
   descr: Palkintojenjako (6 h)
 
 - program:

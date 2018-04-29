@@ -26,7 +26,7 @@ contact:
     banktransfer: 
       Tilin haltija&#58; Recumbent Racing Finland ry<br>
       Tilinumero&#58; FI45 1158 3000 2318 05<br>
-      Viitenumero&#58; 20174 (kaikki käyttävät samaa viitenumeroa)
+      Viitenumero&#58; 20187 (kaikki käyttävät samaa viitenumeroa)
 
   en:
     reg-title: Registration
@@ -56,7 +56,7 @@ contact:
     banktransfer: 
       Account owner&#58; Recumbent Racing Finland ry<br>
       Account number&#58; FI45 1158 3000 2318 05<br>
-      Reference number&#58; 20174
+      Reference number&#58; 20187
 
 team:
   fi:
@@ -104,7 +104,7 @@ services:
   fi:
     title: 2018 <br>Nojapyöräilyn avoin SM-kilpailu<br> ja harrastajien kokoontuminen
     subtitle: Tapahtumaviikonlopun alustava ohjelma
-    text: perustuu viime vuoden aikatauluun
+    text: Tänä vuonna sunnuntain kummatkin kilpailut starttaavat samaan aikaan
     saturday: Lauantai 4. elokuuta
     satdescr: 200 metrin lentävän lähdön sprintti. <br>Tunnin aika-ajo.
     sunday: Sunnuntai 5. elokuuta
@@ -123,7 +123,7 @@ services:
   en:
     title: 2018 Open <br> Finnish Recumbent Championships<br> and meet-up
     subtitle: Preliminary program and schedule
-    text: based on 2017 event schedule
+    text: Sunday's both races start at 8:00 AM
     saturday: Saturday 4th August
     satdescr: 200 meters flying start. <br>1 hour race.
     sunday: Sunday 5th August

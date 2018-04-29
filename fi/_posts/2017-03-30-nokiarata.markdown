@@ -16,9 +16,13 @@ Nokian Renkaiden testirata
 Testiradantie 57  
 37130 Nokia
 
+#### HUOM
+
+Yllä oleva rata-alueen layout-kuva ei ole ajantasainen. Huoltorakennus on muuttunut ja lähtö-/maalikohta on muuttunut muiden kuin 200 m kilpailun osalta. Uusi ajantasainen kuva on työn alla...
+
 #### Profiili
 
-Radan pituus on melko tarkkaan 1800 m. Radan profiili on lähes tasainen, mutta heti lähtöviivan jälkeen on pieni 5 m nyppylä.
+Radan pituus on 1755 m (mittaus 2017). Radan profiili on lähes tasainen, mutta heti lähtöviivan jälkeen on pieni 5 m nyppylä.
 Lähtöpisteen korkeus on 140,11 metriä merenpinnasta (plus miinus 0,15 m).
 ![Rataprofiili](/img/portfolio/uusirataprofiili.jpg "2008 mitattu profiili")
 Rataprofiilin alla olevaan satelliittikuvaan on merkattu etäisyysluvut helpottamaan hahmottamista. Sininen nuoli osoittaa aloituspistettä (1h/6h/12h lähtö).

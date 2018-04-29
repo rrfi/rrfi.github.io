@@ -1,6 +1,6 @@
 - program:
   time: 7-7:45
-  descr: Registration (12 h)
+  descr: Registration (12 h and 6h races)
 
 - program:
   time: "7:50"
@@ -8,26 +8,14 @@
 
 - program:
   time: "8:00"
-  descr: 12 race starts
+  descr: 12 h and 6h races start
 
 - program:
-  time: 9-9:45
-  descr: Registration (6 h)
-
-- program:
-  time: "9:50"
-  descr: Safety briefing for pilots at starting grid
-
-- program:
-  time: "10:00"
-  descr: 6 hour race starts
-
-- program:
-  time: "16:00"
+  time: "14:00"
   descr: 6 hour race ends
 
 - program:
-  time: "16:15"
+  time: "14:30"
   descr: Podium (6 h)
 
 - program:

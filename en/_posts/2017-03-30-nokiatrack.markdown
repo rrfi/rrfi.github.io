@@ -17,9 +17,13 @@ Testiradantie 57
 37130 Nokia 
 Finland
 
+#### NOTE
+
+The track layout drawing above is outdated. Race Center has been moved as well as the Finnish and Start line. Updated track layout will be published soon...
+
 #### Track profile
 
-The track length is about 1800 m. The profile is pretty flat, yet there is a small hill immediately at the starting line, with the ascent of about 5 meters. Starting line is located at the altitude of 140,11 meters (with a 0.15 m margin of error).
+The track length is 1755 m (measured 2017). The profile is pretty flat, yet there is a small hill immediately at the starting line, with the ascent of about 5 meters. Starting line is located at the altitude of 140,11 meters (with a 0.15 m margin of error).
 
 ![Track profile](/img/portfolio/uusirataprofiili.jpg "Track profile measured on 2008")
 The satellite image indicates the related distances to the profile picture. Blue arrow indicates the starting line of the 1h/6h/12h races.
