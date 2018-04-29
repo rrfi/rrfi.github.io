@@ -57,13 +57,11 @@ people:
 - name: Pekka Heimonen
   pic: 4
   email: pekka.heimonen@rrfi.fi
-  position-fi: Suomen nojapyöräilyn lahja Ranskalle. Ex. Masters ME tunnin ajossa. Webmaster. 
-  position-en: The French connection. Ex. Masters World Hour Record. Webmaster. 
-  position-se: The French connection. Masters World Hour Record 2016. Webmaster. 
+  position-fi: Webmaster. 
+  position-en: Webmaster. 
+  position-se: Webmaster. 
   social:
-    - title: twitter
-      url: https://twitter.com/pekkaheimonen
     - title: bicycle
       url: https://www.strava.com/athletes/2250684
-    - title: link
-      url: http://teamheimonen.com
+    - title: linkedin
+      url: https://www.linkedin.com/in/pekka-heimonen/
