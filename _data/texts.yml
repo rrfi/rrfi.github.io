@@ -111,7 +111,7 @@ services:
     sundescr: 12 h aika-ajo<br>6 h aika-ajo
     accommodation: Majoitus
     accdescr: 
-      Majoituksesta on tulossa lisätietoja myöhemmin.
+      Majoitus tänä vuonna<br><a href="http://www.viinikanniemi.com/">Viinikanniemen leirintäalueella</a>.
       <p>Rata-alueella voi yöpyä omatoimisesti 
       (asuntoauto/-vaunu, teltta, riippumatto).</p>
 
@@ -130,8 +130,8 @@ services:
     sundescr: 12 h race<br>6 h race
     accommodation: Where to sleep
     accdescr: 
-      More info will be availaable later on. 
-      <p>It's possible to sleep in a tent or 
+      Accommodation is at <br><a href="http://www.viinikanniemi.com/">Viinikanniemi camping ground</a>.
+      <p>It's also possible to sleep in a tent or 
       caravan at the track area.<br>(Note! no drinking water, neither bathrooms at the track).</p>
     safety: 
       Note! Safety briefing sessions are mandatory for participants, so you 
