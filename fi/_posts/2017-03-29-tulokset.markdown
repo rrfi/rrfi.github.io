@@ -15,7 +15,7 @@ alt: image-alt
 
 #### <a href="../resources/2018_12h_6h_final_MOD.xlsx" target="_blank"> 12 and 6 hours</a>
 
-#### <a href="../resources/2018-200m_final.xlsx" target="_blank">12 hours</a>
+#### <a href="../resources/2018-200m_final.xlsx" target="_blank">200 meters</a>
 
 ## 2017
 
