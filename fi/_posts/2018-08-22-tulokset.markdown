@@ -1,14 +1,15 @@
 ---
-title: 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011
+title: Tulokset
+subtitle: 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011
 layout: default
 modal-id: 4
-date: 2017-03-29
+date: 2018-08-22
 img: saannot.png
 thumbnail: saannot_thumb.png
 alt: image-alt
 ---
 
-## 2018 (Excel files)
+## 2018 (Excel)
 
 #### <a href="../resources/2018_1h_final_MOD.xlsx" target="_blank">1 hour</a>
 
