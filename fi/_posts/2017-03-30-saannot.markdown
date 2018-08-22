@@ -37,7 +37,6 @@ Nokialla kilpaillaan SM-tittlelistä myös velobiileilla (eli kinnereillä) ja t
 - Peesaaminen on sallittua muilla matkoilla, mutta ei tunnin ajossa. 200 m sprintissä radalla on vain yksi laite kerrallaan.
 - Kypäräpakkoa ei ole, mutta kypärää suositellaan käytettäväksi.
 - Pyörässä on oltava vähintään yksi toimiva jarru.
-- Rataa kierretään myötäpäivään.
 - Taustapeili on suositeltu varuste.
 - Omaa terveydentilaansa tulee tarkkailla sekä ennen tapahtumaa että tapahtuman aikana.
 - Järjestäjät tarjoavat tapahtumalle vain paikan ja ajankohdan.
@@ -45,9 +44,5 @@ Nokialla kilpaillaan SM-tittlelistä myös velobiileilla (eli kinnereillä) ja t
 Osanottajat vastaavat itse omasta turvallisuudestaan ja mahdollisista vakuutuksista.
 Järjestäjät suosittelevat vakuutuksen ottamista, jos osanottajalla ei ole sellaista ennestään.
 Kukin allekirjoittaa vastuuvapaussopimuksen ilmoittautumisen yhteydessä.
-
-6 ja 12 tunnin ajon huoltoalue sijaitsee länsikaarteen ulkolaidassa (ks. rata-alueen kartta). Autot
-pysäköidään ko. paikalle riviin peräluukku radalle päin. Näin kaikki mahtuvat paremmin, eikä pyörillä
-tarvitse puikkelehtia autojen välissä. Kilpailukansliaa voi myös käyttää huoltopisteenä
 
 ![12 hours is over](img/portfolio/GOPR1278.jpg "2015 12 h ajo on ohi")

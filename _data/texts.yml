@@ -102,9 +102,9 @@ records:
 
 services:
   fi:
-    title: 2018 <br>Nojapyöräilyn avoin SM-kilpailu<br> ja harrastajien kokoontuminen
-    subtitle: Tapahtumaviikonlopun alustava ohjelma
-    text: Tänä vuonna sunnuntain kummatkin kilpailut starttaavat samaan aikaan
+    title: Nojapyöräilyn avoin SM-kilpailu<br> ja harrastajien kokoontuminen<br>2019
+    subtitle: Alustava kisapaikka vuonna 2019 on Räyskälän lentokenttä 
+    text: Ajankohta 3. - 4. elokuuta 2019.<br>Lisäinfoa julkaistaan myöhemmin ...
     saturday: Lauantai 4. elokuuta
     satdescr: 200 metrin lentävän lähdön sprintti. <br>Tunnin aika-ajo.
     sunday: Sunnuntai 5. elokuuta
@@ -121,9 +121,9 @@ services:
       Huom! Kilpailulähtöjä edeltävät Safety briefing sessiot ovat pakollisia kaikille osallistujille,
       joten lähtöruudukossa on oltava jo 10 minuuttia ennen suorituksen alkua.
   en:
-    title: 2018 Open <br> Finnish Recumbent Championships<br> and meet-up
-    subtitle: Preliminary program and schedule
-    text: Sunday's both races start at 8:00 AM
+    title: Open <br> Finnish Recumbent Championships<br> and meet-up<br>2019
+    subtitle: New location is Räyskälä airfield
+    text: 3rd and 4th of August 2019<br>More details later ...
     saturday: Saturday 4th August
     satdescr: 200 meters flying start. <br>1 hour race.
     sunday: Sunday 5th August

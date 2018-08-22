@@ -1,6 +1,5 @@
 ---
-title: Results
-subtitle: 2017, 2016, 2015, 2014, 2013, 2012, 2011
+title: 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011
 layout: default
 modal-id: 4
 date: 2017-03-29
@@ -8,6 +7,15 @@ img: saannot.png
 thumbnail: saannot_thumb.png
 alt: image-alt
 ---
+
+## 2018 (Excel files)
+
+#### <a href="../resources/2018_1h_final_MOD.xlsx" target="_blank">1 hour</a>
+
+#### <a href="../resources/2018_12h_6h_final_MOD.xlsx" target="_blank"> 12 and 6 hours</a>
+
+#### <a href="../resources/2018-200m_final.xlsx" target="_blank">12 hours</a>
+
 ## 2017
 
 #### <a href="../resources/2017 - 200 mtrs - scratch.pdf" target="_blank">200 m scratch</a>

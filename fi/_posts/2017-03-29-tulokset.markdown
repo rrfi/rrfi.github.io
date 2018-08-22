@@ -9,6 +9,14 @@ thumbnail: saannot_thumb.png
 alt: image-alt
 ---
 
+## 2018 (Excel)
+
+#### <a href="../resources/2018_1h_final_MOD.xlsx" target="_blank">1 hour</a>
+
+#### <a href="../resources/2018_12h_6h_final_MOD.xlsx" target="_blank"> 12 and 6 hours</a>
+
+#### <a href="../resources/2018-200m_final.xlsx" target="_blank">12 hours</a>
+
 ## 2017
 
 #### <a href="../resources/2017 - 200 mtrs - scratch.pdf" target="_blank">200 m scratch</a>
