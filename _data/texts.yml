@@ -6,11 +6,11 @@ contact:
     form-note: (lomake ei ehkä toimi joillakin IE-selaimilla, sorry)
     prices1: 
       Ennen 15.7. ilmoittauduttaessa on osallistumismaksu<br>
-      RRF:n jäseniltä <strong>€30,00</strong> (sis. heidän perheenjäsenensä),<br> 
-      muilta <strong>€40,00</strong>.
+      RRF:n jäseniltä <strong>€40,00</strong> (sis. heidän perheenjäsenensä),<br> 
+      muilta <strong>€50,00</strong>.
     prices2: 
-      Aikavälillä 15.7. - 4.8. ilmoittauduttaessa<br>
-      osallistumismaksu on jäsenille <strong>€35,00</strong>, muille <strong>€45,00</strong>.
+      Aikavälillä 15.7. - 3.8. ilmoittauduttaessa<br>
+      osallistumismaksu on jäsenille <strong>€45,00</strong>, muille <strong>€55,00</strong>.
     prices3:
       RRF:n jäsenmaksu on <strong>€20,00</strong>.<br>
       RRF:n jäsenmaksu ja kisaan osallistuminen maksetaan samalla kertaa.
@@ -19,14 +19,14 @@ contact:
     paypal:
       Voit maksaa joko on-line PayPalin kautta tai perinteisesti tilisiirrolla.<br>
       Lisää PayPal-maksun huomautustietoihin oma nimesi ja tarvittaessa myös muiden perheenjäsenten nimet! 
-    paypal1: Osanottomaksu + RRF jäsenmaksu yhteensä €55,00 (15.7. jälkeen).
-    paypal2: Pelkkä osanottomaksu €45,00 (15.7. jälkeen).
+    paypal1: Osanottomaksu + RRF jäsenmaksu yhteensä €60,00 (ennen 15.7.).
+    paypal2: Pelkkä osanottomaksu €40,00 (ennen 15.7.).
     paypal3: Pelkkä RRF jäsenmaksu €20,00.
     banktransfertitle: Tilisiirto
     banktransfer: 
       Tilin haltija&#58; Recumbent Racing Finland ry<br>
       Tilinumero&#58; FI45 1158 3000 2318 05<br>
-      Viitenumero&#58; 20187 (kaikki käyttävät samaa viitenumeroa)
+      Viitenumero&#58; 20190 (kaikki käyttävät samaa viitenumeroa)
 
   en:
     reg-title: Registration
@@ -35,28 +35,28 @@ contact:
     form-note: (form might not support all versions of IE, sorry)
     prices1: 
       If you register before 15th July, the registration fee is<br>
-      <strong>€30.00</strong> for RRF members (includes all participants of a family),<br>
-      <strong>€40.00</strong> for all others.
+      <strong>€40.00</strong> for RRF members (includes all participants of a family),<br>
+      <strong>€50.00</strong> for all others.
     prices2: 
-      Between 15th July and 4th August the registration fee is<br>
-      <strong>€35.00</strong> for RRF members<br>
-      <strong>€45.00</strong> for others.
+      Between 15th July and 3th August the registration fee is<br>
+      <strong>€45.00</strong> for RRF members<br>
+      <strong>€55.00</strong> for others.
     prices3:
-      RRF member subscription fee is <strong>€20.00</strong> for 2018.<br>
+      RRF member subscription fee is <strong>€20.00</strong> for 2019.<br>
       This fee can be paid with the same transaction as the race registration.
     more: For more info send email to
     payment: Payment
     paypal: 
       You can pay either on-line using PayPal links below or by wire transfer.<br>
       If you pay for the family, please list other family participants to the payment notes!
-    paypal1: Registration with RRF membership fee €55.00 (after July 15th).
-    paypal2: Only race registration €45.00 (after July 15th).
+    paypal1: Registration with RRF membership fee €60.00 (before July 15th).
+    paypal2: Only race registration €40.00 (before July 15th).
     paypal3: Only RRF membership fee €20.00.
     banktransfertitle: Bank account information
     banktransfer: 
       Account owner&#58; Recumbent Racing Finland ry<br>
       Account number&#58; FI45 1158 3000 2318 05<br>
-      Reference number&#58; 20187
+      Reference number&#58; 20190
 
 team:
   fi:
@@ -103,9 +103,9 @@ records:
 services:
   fi:
     title: Nojapyöräilyn avoin SM-kilpailu<br> ja harrastajien kokoontuminen<br>2019
-    subtitle: Alustava kisapaikka vuonna 2019 on Räyskälän lentokenttä 
-    text: Ajankohta 3. - 4. elokuuta 2019.<br>Lisäinfoa julkaistaan myöhemmin ...
-    saturday: Lauantai 4. elokuuta
+    subtitle: Kilpailupaikka vuonna 2019 on Räyskälän lentokenttä 
+    text: Ajankohta 3. - 4. elokuuta 2019.<br>tarkempi aikataulu ja ohjelma tarkentuu ...
+    saturday: Lauantai 3. elokuuta
     satdescr: 200 metrin lentävän lähdön sprintti. <br>Tunnin aika-ajo.
     sunday: Sunnuntai 5. elokuuta
     sundescr: 12 h aika-ajo<br>6 h aika-ajo
@@ -122,9 +122,9 @@ services:
       joten lähtöruudukossa on oltava jo 10 minuuttia ennen suorituksen alkua.
   en:
     title: Open <br> Finnish Recumbent Championships<br> and meet-up<br>2019
-    subtitle: New location is Räyskälä airfield
+    subtitle: we will be riding at Räyskälä airfield
     text: 3rd and 4th of August 2019<br>More details later ...
-    saturday: Saturday 4th August
+    saturday: Saturday 3th August
     satdescr: 200 meters flying start. <br>1 hour race.
     sunday: Sunday 5th August
     sundescr: 12 h race<br>6 h race

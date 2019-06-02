@@ -5,7 +5,7 @@ destination: _site
 # Site settings
 title: Recumbent Racing Finland
 email: pekka.heimonen@gmail.com
-description: "We ride recumbents but we love cycling and all kind of bikes. Every August we organise an open Finnish Recumbent Championship race in Nokia, Finland."
+description: "We ride recumbents but we love cycling and all kind of bikes. Every August we organise an open Finnish Recumbent Championship race."
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -16,7 +16,6 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Nokia
   - line: Finland
 
 # Gallery static file defaults
