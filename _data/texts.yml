@@ -20,7 +20,7 @@ contact:
       Voit maksaa joko on-line PayPalin kautta tai perinteisesti tilisiirrolla.<br>
       Lisää PayPal-maksun huomautustietoihin oma nimesi ja tarvittaessa myös muiden perheenjäsenten nimet! 
     paypal1: Osanottomaksu + RRF jäsenmaksu yhteensä €60,00 (ennen 15.7.).
-    paypal2: Pelkkä osanottomaksu €40,00 (ennen 15.7.).
+    paypal2: Pelkkä osanottomaksu €50,00 (ennen 15.7.).
     paypal3: Pelkkä RRF jäsenmaksu €20,00.
     banktransfertitle: Tilisiirto
     banktransfer: 
@@ -50,7 +50,7 @@ contact:
       You can pay either on-line using PayPal links below or by wire transfer.<br>
       If you pay for the family, please list other family participants to the payment notes!
     paypal1: Registration with RRF membership fee €60.00 (before July 15th).
-    paypal2: Only race registration €40.00 (before July 15th).
+    paypal2: Only race registration €50.00 (before July 15th).
     paypal3: Only RRF membership fee €20.00.
     banktransfertitle: Bank account information
     banktransfer: 
