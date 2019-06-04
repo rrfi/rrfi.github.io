@@ -1,50 +1,31 @@
 - program:
-  time: "9:00"
-  descr: Gate opens
+  time: "10:00"
+  descr: Race track organization, tent setup etc, registration
 
 - program:
-  time: 10–11
-  descr: Registration (200 m, 1 h , 6 h, 12 h races)
+  time: "11.30 - 12.30"
+  descr: 400m drag race
 
 - program:
-  time: "11:00"
-  descr: Event opening session
+  time: "12.30 - 14.00"
+  descr: Leisure time, socializing
 
 - program:
-  time: "11:20"
-  descr: Safety briefing for pilots at starting grid
-
-- program:
-  time: "11:30"
-  descr: Start of 200 meter sprint rounds
-
-- program:
-  time: 14:30-17
-  descr: > 
-    Paddock action<br>
-    - Competitor official photo session
-    - Swap meet (parts etc)<br>
-    - Slowest recumbent rider<br>
-    - Test rides
-
-- program:
-  time: "15:50"
-  descr: Safety briefing for pilots at starting grid
+  time: "14:00"
+  descr: One lap race
 
 - program:
   time: "16:00"
-  descr: 1 hour race, group I ("slow")
-
-- program:
-  time: "16:50"
-  descr: Safety briefing for pilots at starting grid
+  descr: 1h time trial, slow group
 
 - program:
   time: "17:00"
-  descr: 1 hour race, group II ("fast")
+  descr: 1h time trial, fast group
 
 - program:
-  time: "18:15"
-  descr: Podium (200 m and 1 h races)
-
-
+  time: "18:00 - 20:00"
+  descr: > 
+     Pit talks.<br> 
+     Podium.<br>
+     Miscellaneus program.<br>
+     Sauna.

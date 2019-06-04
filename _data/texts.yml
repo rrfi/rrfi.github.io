@@ -62,7 +62,7 @@ team:
   fi:
     link: Tiimi
     title: Järjestelytoimikuntamme
-    slogan: Meitä voit kiittää ja syyttää vuoden 2018 kisajärjestelyistä.
+    slogan: Meitä voit kiittää ja syyttää vuoden 2019 kisajärjestelyistä.
     wisdom: Nojaamalla kulkee.
   en:
     link: Team
@@ -104,38 +104,33 @@ services:
   fi:
     title: Nojapyöräilyn avoin SM-kilpailu<br> ja harrastajien kokoontuminen<br>2019
     subtitle: Kilpailupaikka vuonna 2019 on Räyskälän lentokenttä 
-    text: Ajankohta 3. - 4. elokuuta 2019.<br>tarkempi aikataulu ja ohjelma tarkentuu ...
+    text: Alustava aikataulu tapahtumalle
+    friday: Perjantai 2. elokuuta
+    fridescr: Saapuminen ja sopeutuminen Räyskälän ilmanalaan.
     saturday: Lauantai 3. elokuuta
-    satdescr: 200 metrin lentävän lähdön sprintti. <br>Tunnin aika-ajo.
-    sunday: Sunnuntai 5. elokuuta
-    sundescr: 12 h aika-ajo<br>6 h aika-ajo
+    satdescr: 400 metrin kiihdytyskisa. <br>Nopea ratakierros. <br> 1h aika-ajo.
+    sunday: Sunnuntai 4. elokuuta
+    sundescr: 3 h aika-ajo<br>6 h aika-ajo
     accommodation: Majoitus
     accdescr: 
-      Majoitus tänä vuonna<br><a href="http://www.viinikanniemi.com/">Viinikanniemen leirintäalueella</a>.
-      <p>Rata-alueella voi yöpyä omatoimisesti 
-      (asuntoauto/-vaunu, teltta, riippumatto).</p>
-
-      <p>Huomaa, että rata-alueella ei ole peseytymismahdollisuutta eikä juomiskelpoista vettä 
-      (poislukien kanistereilla paikalle tuotava juomavesi).</p>
+      Majoitusmahdollisuuksia löytyy ihan vieressä <a href="https://www.rayskala.fi/palvelut/">Räyskälän alueella</a>.
     safety: 
-      Huom! Kilpailulähtöjä edeltävät Safety briefing sessiot ovat pakollisia kaikille osallistujille,
-      joten lähtöruudukossa on oltava jo 10 minuuttia ennen suorituksen alkua.
+
   en:
     title: Open <br> Finnish Recumbent Championships<br> and meet-up<br>2019
     subtitle: we will be riding at Räyskälä airfield
-    text: 3rd and 4th of August 2019<br>More details later ...
+    text: Preliminary schedule for the weekend
+    friday: Friday 2nd August
+    fridescr: Arrival day.
     saturday: Saturday 3th August
     satdescr: 200 meters flying start. <br>1 hour race.
     sunday: Sunday 5th August
-    sundescr: 12 h race<br>6 h race
+    sundescr: 3 h race<br>6 h race
     accommodation: Where to sleep
     accdescr: 
-      Accommodation is at <br><a href="http://www.viinikanniemi.com/">Viinikanniemi camping ground</a>.
-      <p>It's also possible to sleep in a tent or 
-      caravan at the track area.<br>(Note! no drinking water, neither bathrooms at the track).</p>
+      Accommodation services are available at the <a href="https://www.rayskala.fi/palvelut/">Räyskälä area</a>.
     safety: 
-      Note! Safety briefing sessions are mandatory for participants, so you 
-      need to be on the starting grid 10 minutes before the race starts.
+
 other:
   fi:
     racelink: 2018 race

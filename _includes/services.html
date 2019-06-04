@@ -1,5 +1,5 @@
 <!-- Services Section -->
-    <section id="2018 race">
+    <section id="raceinfo">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -9,7 +9,37 @@
                 </div>
             </div>
             <div class="row text-center">
-                <div class="col-md-4">
+                    <div class="col-md-12">
+                        <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x text-muted"></i>
+                            <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="service-heading">
+                            {{ site.data.texts.services[lang].friday }}
+                        </h4>
+                        <p class="text-info">
+                            <b>
+                                {{ site.data.texts.services[lang].fridescr }}
+                            </b>
+                        </p>
+                        <div class="row text-muted">
+                             {% if lang == 'en' %}
+                                {% for program in site.data.friday %}
+                                <div class="col-md-2"><b>{{ program.time }}</b></div> 
+                                <div class="col-md-10 text-left">{{ program.descr }}</div>
+                            {% endfor %}
+                            {% else %}
+                                {% for program in site.data.perjantai %}
+                                <div class="col-md-2"><b>{{ program.time }}</b></div> 
+                                <div class="col-md-10 text-left">{{ program.descr }}</div>
+                            {% endfor %}
+                            {% endif %}						  
+                        </div>
+                        <p class="text-left">{{ site.data.texts.services[lang].safety }}</p>
+                    </div>
+                </div>
+                <div class="row text-center">
+                <div class="col-md-12">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-muted"></i>
                         <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
@@ -22,22 +52,24 @@
 						    {{ site.data.texts.services[lang].satdescr }}
                         </b>
 					</p>
-                    <p class="text-muted">
-					  <ul class="list text-muted">
+                    <div class="row text-muted">
  						{% if lang == 'en' %}
                             {% for program in site.data.saturday %}
-                                <li><b>{{ program.time }}:</b> {{ program.descr }}</li>
-                            {% endfor %}
+                            <div class="col-md-2"><b>{{ program.time }}</b></div> 
+                            <div class="col-md-10 text-left">{{ program.descr }}</div>
+                        {% endfor %}
                         {% else %}
                             {% for program in site.data.lauantai %}
-                                <li><b>{{ program.time }}:</b> {{ program.descr }}</li>
-                            {% endfor %}
+                            <div class="col-md-2"><b>{{ program.time }}</b></div> 
+                            <div class="col-md-10 text-left">{{ program.descr }}</div>
+                        {% endfor %}
                         {% endif %}						  
-					  </ul>
-					</p>
+					</div>
                     <p class="text-left">{{ site.data.texts.services[lang].safety }}</p>
                 </div>
-                <div class="col-md-4">
+            </div>
+            <div class="row text-center">
+                <div class="col-md-12">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-muted"></i>
                         <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
@@ -50,22 +82,24 @@
 						    {{ site.data.texts.services[lang].sundescr }}
                         </b>
 					</p>
-                    <p class="text-muted">
-					  <ul class="list text-muted">
+					  <div class="row text-muted">
  						{% if lang == 'en' %}
                             {% for program in site.data.sunday %}
-                                <li><b>{{ program.time }}:</b> {{ program.descr }}</li>
+                                <div class="col-md-2"><b>{{ program.time }}</b></div> 
+                                <div class="col-md-10 text-left">{{ program.descr }}</div>
                             {% endfor %}
                         {% else %}
                             {% for program in site.data.sunnuntai %}
-                                <li><b>{{ program.time }}:</b> {{ program.descr }}</li>
+                                <div class="col-md-2"><b>{{ program.time }}</b></div> 
+                                <div class="col-md-10 text-left">{{ program.descr }}</div>
                             {% endfor %}
                         {% endif %}						  
-					  </ul>
-					</p>
+					  </div>
                     <p class="text-left">{{ site.data.texts.services[lang].safety }}</p>
                 </div>
-                <div class="col-md-4">
+            </div>
+            <div class="row text-center">
+                <div class="col-md-12">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-muted"></i>
                         <i class="fa fa-bed fa-stack-1x fa-inverse"></i>

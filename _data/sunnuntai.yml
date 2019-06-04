@@ -1,31 +1,15 @@
 - program:
-  time: klo 7-7:45
-  descr: Ilmoittautuminen (12 h ja 6 h)
+  time: "10:00"
+  descr: 3h ja 6h ajot, lähtö kaikki samaan aikaan
 
 - program:
-  time: "klo 7:50"
-  descr: Safety briefing kuljettajille lähtöruudukossa
+  time: "16:00"
+  descr: Kisat ohi
 
 - program:
-  time: klo 8
-  descr: 12 ja 6 tunnin ajot alkavat
+  time: "17:00 - 18:00"
+  descr: Palkintojen jako
 
 - program:
-  time: klo 14
-  descr: 6 tunnin ajo päättyy
-
-- program:
-  time: klo 14:30
-  descr: Palkintojenjako (6 h)
-
-- program:
-  time: klo 20
-  descr: 12 tunnin ajo päättyy
-
-- program:
-  time: klo 20
-  descr: Palkintojenjako (12 h)
-
-- program:
-  time: klo 21
-  descr: Rata-alueen portti suljetaan
+  time: "illalla"
+  descr: Sauna

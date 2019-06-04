@@ -1,31 +1,15 @@
 - program:
-  time: 7-7:45
-  descr: Registration (12 h and 6h races)
+  time: "10:00"
+  descr: 3h and 6h time trials. Both races starting at the same time.
 
 - program:
-  time: "7:50"
-  descr: Safety briefing for pilots at starting grid
+  time: "16:00"
+  descr: Race closing
 
 - program:
-  time: "8:00"
-  descr: 12 h and 6h races start
+  time: "17:00 - 18:00"
+  descr: Podium
 
 - program:
-  time: "14:00"
-  descr: 6 hour race ends
-
-- program:
-  time: "14:30"
-  descr: Podium (6 h)
-
-- program:
-  time: "20:00"
-  descr: 12 race ends
-
-- program:
-  time: "20:00"
-  descr: Podium (12 h)
-
-- program:
-  time: "21:00"
-  descr: Gate closes
+  time: "evening"
+  descr: Sauna
