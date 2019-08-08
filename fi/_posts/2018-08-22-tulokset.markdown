@@ -1,6 +1,6 @@
 ---
 title: Tulokset
-subtitle: 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011
+subtitle: 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011
 layout: default
 modal-id: 4
 date: 2018-08-22
@@ -8,6 +8,18 @@ img: saannot.png
 thumbnail: saannot_thumb.png
 alt: image-alt
 ---
+
+## 2019 (pdf)
+
+#### <a href="../resources/2019/2019_1h.pdf" target="_blank">1 tunti</a>
+
+#### <a href="../resources/2019/2019_3h.pdf" target="_blank">3 tunnin ajo</a>
+
+#### <a href="../resources/2019/2019_6h.pdf" target="_blank">6 tunnin ajo</a>
+
+#### <a href="../resources/2019/2019_400m.pdf" target="_blank">400 m</a>
+
+#### <a href="../resources/2019/2019_one_lap.pdf" target="_blank">Yksi kierros</a>
 
 ## 2018 (Excel)
 

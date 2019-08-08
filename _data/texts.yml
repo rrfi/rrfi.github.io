@@ -1,6 +1,6 @@
 contact:
   fi:
-    reg-title: Ilmoittautuminen
+    reg-title: Liittyminen
     subscribe: Hinnat&#58;
     form: On-line ilmoittautumislomake
     form-note: (lomake ei ehkä toimi joillakin IE-selaimilla, sorry)
@@ -21,7 +21,7 @@ contact:
       Lisää PayPal-maksun huomautustietoihin oma nimesi ja tarvittaessa myös muiden perheenjäsenten nimet! 
     paypal1: Osanottomaksu + RRF jäsenmaksu yhteensä €60,00 (ennen 15.7.).
     paypal2: Pelkkä osanottomaksu €50,00 (ennen 15.7.).
-    paypal3: Pelkkä RRF jäsenmaksu €20,00.
+    paypal3: RRF jäsenmaksu €20,00.
     banktransfertitle: Tilisiirto
     banktransfer: 
       Tilin haltija&#58; Recumbent Racing Finland ry<br>
@@ -29,7 +29,7 @@ contact:
       Viitenumero&#58; 20190 (kaikki käyttävät samaa viitenumeroa)
 
   en:
-    reg-title: Registration
+    reg-title: Membership
     subscribe: Prices&#58;
     form: On-line registration form
     form-note: (form might not support all versions of IE, sorry)
@@ -51,7 +51,7 @@ contact:
       If you pay for the family, please list other family participants to the payment notes!
     paypal1: Registration with RRF membership fee €60.00 (before July 15th).
     paypal2: Only race registration €50.00 (before July 15th).
-    paypal3: Only RRF membership fee €20.00.
+    paypal3: RRF membership fee €20.00.
     banktransfertitle: Bank account information
     banktransfer: 
       Account owner&#58; Recumbent Racing Finland ry<br>
@@ -102,9 +102,9 @@ records:
 
 services:
   fi:
-    title: Nojapyöräilyn avoin SM-kilpailu<br> ja harrastajien kokoontuminen<br>2019
-    subtitle: Kilpailupaikka vuonna 2019 on Räyskälän lentokenttä 
-    text: Alustava aikataulu tapahtumalle
+    title: Nojapyöräilyn avoin SM-kilpailu<br> ja harrastajien kokoontuminen
+    subtitle: Kilpailupaikka vuonna 2020 on taas Räyskälän lentokenttä
+    text: lisäinfoa myöhemmin...
     friday: Perjantai 2. elokuuta
     fridescr: Saapuminen ja sopeutuminen Räyskälän ilmanalaan.
     saturday: Lauantai 3. elokuuta
@@ -113,13 +113,13 @@ services:
     sundescr: 3 h aika-ajo<br>6 h aika-ajo
     accommodation: Majoitus
     accdescr: 
-      Majoitusmahdollisuuksia löytyy ihan vieressä <a href="https://www.rayskala.fi/palvelut/">Räyskälän alueella</a>.
+      Majoitusmahdollisuuksia löytyy radan vieressä <a href="https://www.rayskala.fi/palvelut/">Räyskälän alueella</a>.
     safety: 
 
   en:
-    title: Open <br> Finnish Recumbent Championships<br> and meet-up<br>2019
-    subtitle: we will be riding at Räyskälä airfield
-    text: Preliminary schedule for the weekend
+    title: Open <br> Finnish Recumbent Championships<br> and meet-up
+    subtitle: we will be riding at Räyskälä airfield again on 2020
+    text: more info later on ...
     friday: Friday 2nd August
     fridescr: Arrival day.
     saturday: Saturday 3th August
